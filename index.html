@@ -9,13 +9,10 @@ layout: default
         <h1>{{ post.title }}</h1>
       </a>
 
-    <p class="post-meta">
-        <span>Posted by {{ post.author }} on {{ post.date | date: "%B %e, %Y" }}</span>
-        {% include read-time.html content=post.content %}
-    </p>
+    <p class="author_title">By {{site.author}}  ·  {{ page.date | date: "%B %e, %Y" }}  ·  {% include read-time.html content=post.content %}</p>
     
       <div class="entry">
-        {{ post.excerpt }}
+        {{ post.content | truncate 1200 }}
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
