@@ -4,5 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Just a place on the internet to call home.
-I use this to post the occasional topic of interest to me.
+We started this blog when we undertook the renovation of a terraced house in London - it records the highs and lows of that project. 
+After that it was more about the good life - growing stuff in the garden and keeping our chickens.
+
+Until children came along and I stopped blogging.
+
+Keeping it for posterity.
+
+Hope it makes you smile.

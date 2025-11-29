@@ -3,16 +3,16 @@
 #
 
 # Name of your site (displayed in the header)
-name: Musings
+name: Grosvenor Gardens
 
 # Name of the author
 author: Tim
 
 # Short bio or description (displayed in the header)
-description: A place to keep notes
+description: All about a house renovation, a long time ago.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/2472620.jpeg
+#avatar: /images/2472620.jpeg
 
 #
 # Flags below are optional
@@ -35,14 +35,14 @@ google_analytics:
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://qutio.com
-enforce_ssl: https://qutio.com
+url: http://grosvenorgardens.com
+enforce_ssl: https://grosvenorgardens.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/qutio"
+baseurl: "/grosvenorgardens"
 
 #
 # !! You don't need to change any of the configuration flags below !!

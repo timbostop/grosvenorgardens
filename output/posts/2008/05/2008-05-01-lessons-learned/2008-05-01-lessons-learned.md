@@ -1,0 +1,19 @@
+---
+title: "Lessons learned"
+date: 2008-05-01
+categories: 
+  - "general"
+---
+
+I thought I'd contribute some lessons learned - for anyone thinking of taking on another renovation project (or indeed for our learning if we do this again). Firstly, I would like to do it again. Maybe in a few years. Despite the stress it has put us under (and it's difficult to underestimate how stressful it has been in truth) - it has been an enjoyable and satisfying experience in the main.
+
+- Choose your builders with care. Every builder will try to distance themselves from the "cowboys" in the market place. You may have to pay more than you think to get some who are actually good. Don't accept the first, cheapest quote.
+- Even when the quality of the work looks good, you still need to supervise them at every step. Get involved, make sure you understand what they're doing and why and ask them about it
+- Be ahead of the game. Building projects have a habit of lurching along and suddenly reaching crucial decision points you weren't ready for. Be ready for them in advance. Know where your sockets should go, where the taps and pipes should go, whether there's enough head height in this spot or what height the windows should go at. The "standard" way helps sometimes but it isn't necessarily good enough.
+- Draw stuff clearly. If there is a sliver of ambiguity in anything you give the builders, you can guarantee they'll interpret in the other way. If you want something, draw it first (preferably on Sketchup or similar) and give them the picture. It makes it a ton easier.
+- Present them with lists. In my experience few builders take notes during conversations in which a lot of information is being transferred. If there's a list of stuff to do - snags, specification etc etc - give it to them on paper, multiple copies if necessary and get it distrubuted. Keep giving them lists and try to get them to tick items off. It helps everyone know where they stand
+- Builders will generally try to get money upfront as much as possible. Your job is to keep them just behind in the payment stakes so that there's always an incentive to keep going. Remember that "final payment" of £1k to £2k might easily be "not worth their while" and they may have priced the job to ignore that payment anyway. Hold back more than they want to - despite how much they whinge.
+- I'd recommend using a building company who subcontracts out the work - like we did with MoreSpace. While it didn't work perfectly, it did take some of the pressure off us having to make decisions about the money side of things and helped diffuse some tricky situations where they were able to be forceful
+- The money bit is what makes it all stressful. If it was just a case of a fixed price project and getting through it, it would be a doddle. What makes projects hard is surprises. Surprises in terms of stuff which didn't work out as you'd hoped (because it costs to change it) or surprises in terms of stuff which you thought was included but actually was extra. Assume everything you ask for is an extra until proven otherwise and ask at every opportunity. Make sure you understand what is included in advance as much as you can. Don't give in when the builders pester you for money. Attach payments to measurable targets.
+- Watch out for shortcuts. This is difficult if you don't have a building background. Try to establish what the correct way to do things is and make sure that no shortcuts are taken. What's the right thickness of insulation? What's the right finish? How is that normally done?
+- There's give and take in every contract. In a fixed price contract there is some give and take. You don't want to be really hard on your builder - they have to make a profit. At the same time, don't accept poor work. They might do a bit extra on one thing. In return you might pay a bit extra for another. Building projects are a series of minor compromises to get you over the line

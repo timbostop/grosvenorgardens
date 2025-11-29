@@ -1,0 +1,8 @@
+---
+title: "Change to the loft layout"
+date: 2008-02-03
+categories: 
+  - "general"
+---
+
+As mentioned below, because of a change in the way the stairs are fitting into the loft and the consequential loss of major head height in the proposed bathroom, we needed to come up with a better solution. This is the original proposed layout (as per our original drawings): ![old-loft-bathroom.jpg](images/old-loft-bathroom.jpg) It has two bedrooms, the landing and a shared bathroom at the front of the house with a velux window in it. The problem is that there is not enough head height for a proper shower cubicle - even one with sliding doors and minimal shower tray etc. Basically it won't feel very grand at all and might be very impractical. In contrast the rear guest bedroom (originally designed to be quite small) is about 60cm bigger that it was supposed to be - it feels like a real waste of good head height space. So we're proposing the following new design: ![new-loft-bathroom.jpg](images/new-loft-bathroom.jpg) Where the bathroom was is now a dressing room - which is kind of a walk-in wardrobe with shelves and shoe racks etc... The new bathroom will be positioned with full head height between the two original bedrooms and has an ensuite entrance from the master bedroom. In addition to the walk-in wardrobe, we also get a fitted wardrobe in the rear guest bedroom and a neat seating area in the master bedroom. There's still room for both the beds AND pretty much a clear line of sight to the Juliette balcony from the master bedroom doors. Finally the bathroom is positioned over the existing soil pipe so we won't need a macerator and the plumbing will be easier. Now just got to persuade the builders this is a good idea.

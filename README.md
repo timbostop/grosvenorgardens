@@ -1,5 +1,5 @@
-### Musings
+### Grosvenor Gardens
 
-Just a place to store notes
+A blog about a house renovation a long time ago.
 
 Based on the theme Reverie
