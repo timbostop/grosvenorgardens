@@ -9,6 +9,8 @@ categories:
 
 Slice of modernism, Stuttgart. View from our hotel.
 
+<!-- Broken image reference:
 ![](images/image.jpeg)
+-->
 
 Posted via email

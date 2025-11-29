@@ -7,7 +7,9 @@ categories:
 
 *Unfortunately, some images from this post are missing - they were sadly lost during the blog migration.*
 
+<!-- Broken image reference:
 [![](images/p474.jpg.scaled500.jpg)](http://posterous.com/getfile/files.posterous.com/tbbloghosting/kzmoiIburkJdcCovCcjuHprCGcGHJAmsJIDzujnszisIpmusaEGvknespbnx/p474.jpg.scaled1000.jpg)
+-->
 
 Having sone wonderful R&R in Germany's spa capital.
 

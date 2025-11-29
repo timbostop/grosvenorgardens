@@ -11,6 +11,8 @@ Just an idea for the study i spotted... To save for later. [](http://www.diylif
 
   
 
+<!-- Broken image reference:
 ![](images/floating-desk-590.jpg)Unplggd
+-->
 
 Posted via email

@@ -15,4 +15,6 @@ Shock horror! Some photos below for those who want a quick fix of progress. The 
 - We need to arrange a call with the project manager while we're away to check on progress
 - Oh yeah, and from here on in the money gets held back until all the snags are fixed
 
+<!-- Broken image reference:
 And the next jobs: \* Tim to order worktop for utility room \* Tim to chase surveyor \* S to chase toilets... \* Plan lighting and electicals in the kitchen \* Sort out the concertina doors for the rear of the house \* Plan and purchase for the bathroom in the loft Gas feed finally connected. We have gas! ![](images/photo 018.jpg) Attractive light in the stair well: ![](images/photo 017.jpg) New radiator, old bannister: ![](images/photo 016.jpg) Shaver socket to be: ![](images/photo 015.jpg) ![](images/photo 014.jpg) Working switches: ![](images/photo 013.jpg) And spotlights: ![](images/photo 012.jpg) Random deliveries - is that the top to the cupboard? ![](images/photo 011.jpg) Awaiting a sink: ![](images/photo 010.jpg) Downpipe (slightly disappointing but we'll forget about that): ![](images/photo 009.jpg) New towel rail - and it's a radiator too: ![](images/photo 008.jpg) Hallway: ![](images/photo 006.jpg) ![](images/photo 005.jpg) Spots are on: ![](images/photo 001.jpg)
+-->

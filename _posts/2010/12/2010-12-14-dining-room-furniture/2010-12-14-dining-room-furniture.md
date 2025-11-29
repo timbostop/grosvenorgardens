@@ -7,6 +7,8 @@ categories:
 
 *Unfortunately, some images from this post are missing - they were sadly lost during the blog migration.*
 
+<!-- Broken image reference:
 ![](images/photo.jpg)
+-->
 
 Posted via email
