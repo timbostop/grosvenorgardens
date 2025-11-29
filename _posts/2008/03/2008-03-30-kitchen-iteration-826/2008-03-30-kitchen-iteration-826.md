@@ -22,8 +22,8 @@ Bit more streamlined than before - now we just have to work out if we can afford
 From the garden:  
 
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/Kitchen1.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/Kitchen1.jpg" alt="Kitchen1.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/Kitchen1.jpg" target="_blank">
+    <img src="/images/Kitchen1.jpg" alt="Kitchen1.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 
@@ -32,15 +32,15 @@ From the side, showing island and hob run:
   
 
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/Kitchen2.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/Kitchen2.jpg" alt="Kitchen2.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/Kitchen2.jpg" target="_blank">
+    <img src="/images/Kitchen2.jpg" alt="Kitchen2.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 
 From birds eye view showing oven and fridge freezer unit.  
 
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/Kitchen3.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/Kitchen3.jpg" alt="Kitchen3.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/Kitchen3.jpg" target="_blank">
+    <img src="/images/Kitchen3.jpg" alt="Kitchen3.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>

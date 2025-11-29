@@ -6,8 +6,8 @@ categories:
 ---
 
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/1525542693_184107019f.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/1525542693_184107019f.jpg" alt="1525542693_184107019f.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/1525542693_184107019f.jpg" target="_blank">
+    <img src="/images/1525542693_184107019f.jpg" alt="1525542693_184107019f.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 

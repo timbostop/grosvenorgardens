@@ -8,8 +8,8 @@ categories:
 The bathroom design is getting closer.
 
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/chosen-design-view-2.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/chosen-design-view-2.jpg" alt="chosen-design-view-2.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/chosen-design-view-2.jpg" target="_blank">
+    <img src="/images/chosen-design-view-2.jpg" alt="chosen-design-view-2.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 

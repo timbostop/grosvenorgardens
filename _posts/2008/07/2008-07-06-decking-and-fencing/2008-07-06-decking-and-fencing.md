@@ -19,22 +19,22 @@ S was on BBQ duties as well as oiling the new garden furniture - so by the end o
 Posts and holes dug on the hottest day of the year:  
   
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/2008-07-photo-canon 003.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/2008-07-photo-canon 003.jpg" alt="2008-07-photo-canon 003.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/2008-07-photo-canon 003.jpg" target="_blank">
+    <img src="/images/2008-07-photo-canon 003.jpg" alt="2008-07-photo-canon 003.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
   
 Decking goes down:  
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/2008-07-photo-canon 005.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/2008-07-photo-canon 005.jpg" alt="2008-07-photo-canon 005.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/2008-07-photo-canon 005.jpg" target="_blank">
+    <img src="/images/2008-07-photo-canon 005.jpg" alt="2008-07-photo-canon 005.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
   
 Missing some:  
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/2008-07-photo-canon 006.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/2008-07-photo-canon 006.jpg" alt="2008-07-photo-canon 006.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/2008-07-photo-canon 006.jpg" target="_blank">
+    <img src="/images/2008-07-photo-canon 006.jpg" alt="2008-07-photo-canon 006.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 
@@ -42,22 +42,22 @@ The garden of doom:
   
   
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/2008-07-photo-canon 008.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/2008-07-photo-canon 008.jpg" alt="2008-07-photo-canon 008.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/2008-07-photo-canon 008.jpg" target="_blank">
+    <img src="/images/2008-07-photo-canon 008.jpg" alt="2008-07-photo-canon 008.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 How to treat your Polish builders - good food, good thrones:  
 
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/2008-07-photo-canon 010.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/2008-07-photo-canon 010.jpg" alt="2008-07-photo-canon 010.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/2008-07-photo-canon 010.jpg" target="_blank">
+    <img src="/images/2008-07-photo-canon 010.jpg" alt="2008-07-photo-canon 010.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 Working hard:  
 
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/2008-07-photo-canon 011.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/2008-07-photo-canon 011.jpg" alt="2008-07-photo-canon 011.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/2008-07-photo-canon 011.jpg" target="_blank">
+    <img src="/images/2008-07-photo-canon 011.jpg" alt="2008-07-photo-canon 011.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 Get your missus on BBQ duty - feeding neighbours and builders:  
@@ -65,37 +65,37 @@ Get your missus on BBQ duty - feeding neighbours and builders:
   
   
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/2008-07-photo-canon 012.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/2008-07-photo-canon 012.jpg" alt="2008-07-photo-canon 012.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/2008-07-photo-canon 012.jpg" target="_blank">
+    <img src="/images/2008-07-photo-canon 012.jpg" alt="2008-07-photo-canon 012.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
   
 Fencing panel newly finished:  
 
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/2008-07-photo-canon 013.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/2008-07-photo-canon 013.jpg" alt="2008-07-photo-canon 013.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/2008-07-photo-canon 013.jpg" target="_blank">
+    <img src="/images/2008-07-photo-canon 013.jpg" alt="2008-07-photo-canon 013.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
   
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/2008-07-photo-canon 015.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/2008-07-photo-canon 015.jpg" alt="2008-07-photo-canon 015.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/2008-07-photo-canon 015.jpg" target="_blank">
+    <img src="/images/2008-07-photo-canon 015.jpg" alt="2008-07-photo-canon 015.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 And from M's side:  
 
   
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/2008-07-photo-canon 016.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/2008-07-photo-canon 016.jpg" alt="2008-07-photo-canon 016.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/2008-07-photo-canon 016.jpg" target="_blank">
+    <img src="/images/2008-07-photo-canon 016.jpg" alt="2008-07-photo-canon 016.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 Trellis to go up:  
 
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/2008-07-photo-canon 017.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/2008-07-photo-canon 017.jpg" alt="2008-07-photo-canon 017.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/2008-07-photo-canon 017.jpg" target="_blank">
+    <img src="/images/2008-07-photo-canon 017.jpg" alt="2008-07-photo-canon 017.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 And from our side, already with ivy:  
@@ -103,8 +103,8 @@ And from our side, already with ivy:
   
   
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/2008-07-photo-canon 019.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/2008-07-photo-canon 019.jpg" alt="2008-07-photo-canon 019.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/2008-07-photo-canon 019.jpg" target="_blank">
+    <img src="/images/2008-07-photo-canon 019.jpg" alt="2008-07-photo-canon 019.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 Nice butt:  
@@ -112,35 +112,35 @@ Nice butt:
   
   
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/2008-07-photo-canon 021.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/2008-07-photo-canon 021.jpg" alt="2008-07-photo-canon 021.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/2008-07-photo-canon 021.jpg" target="_blank">
+    <img src="/images/2008-07-photo-canon 021.jpg" alt="2008-07-photo-canon 021.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 
   
 And the beautiful dining set - neatly oiled by S:  
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/2008-07-photo-canon 026.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/2008-07-photo-canon 026.jpg" alt="2008-07-photo-canon 026.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/2008-07-photo-canon 026.jpg" target="_blank">
+    <img src="/images/2008-07-photo-canon 026.jpg" alt="2008-07-photo-canon 026.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 And the twinkly lights:  
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/2008-07-photo-canon 027.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/2008-07-photo-canon 027.jpg" alt="2008-07-photo-canon 027.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/2008-07-photo-canon 027.jpg" target="_blank">
+    <img src="/images/2008-07-photo-canon 027.jpg" alt="2008-07-photo-canon 027.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 And the transformation is complete from THIS:  
 
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/before.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/before.jpg" alt="before.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/before.jpg" target="_blank">
+    <img src="/images/before.jpg" alt="before.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 To this:  
   
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/2008-07-photo-canon 031.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/2008-07-photo-canon 031.jpg" alt="2008-07-photo-canon 031.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/2008-07-photo-canon 031.jpg" target="_blank">
+    <img src="/images/2008-07-photo-canon 031.jpg" alt="2008-07-photo-canon 031.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>

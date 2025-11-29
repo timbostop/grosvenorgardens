@@ -16,20 +16,20 @@ You can see them best on Flickr, but a few below too:
 Few favourites:
 
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/4060628662_979f879048.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/4060628662_979f879048.jpg" alt="4060628662_979f879048.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/4060628662_979f879048.jpg" target="_blank">
+    <img src="/images/4060628662_979f879048.jpg" alt="4060628662_979f879048.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/4060629964_2af48547a6.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/4060629964_2af48547a6.jpg" alt="4060629964_2af48547a6.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/4060629964_2af48547a6.jpg" target="_blank">
+    <img src="/images/4060629964_2af48547a6.jpg" alt="4060629964_2af48547a6.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/4059851311_7bf5c79fae.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/4059851311_7bf5c79fae.jpg" alt="4059851311_7bf5c79fae.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/4059851311_7bf5c79fae.jpg" target="_blank">
+    <img src="/images/4059851311_7bf5c79fae.jpg" alt="4059851311_7bf5c79fae.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 

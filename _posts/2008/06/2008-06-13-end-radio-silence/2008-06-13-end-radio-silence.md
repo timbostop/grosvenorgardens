@@ -24,8 +24,8 @@ Anyway, some photos:
 The patio doors finally arrive, 4 weeks late:  
 
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/2008-06-photo-canon 028.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/2008-06-photo-canon 028.jpg" alt="2008-06-photo-canon 028.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/2008-06-photo-canon 028.jpg" target="_blank">
+    <img src="/images/2008-06-photo-canon 028.jpg" alt="2008-06-photo-canon 028.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 
@@ -34,24 +34,24 @@ Bringing them in:
   
 
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/2008-06-photo-canon 030.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/2008-06-photo-canon 030.jpg" alt="2008-06-photo-canon 030.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/2008-06-photo-canon 030.jpg" target="_blank">
+    <img src="/images/2008-06-photo-canon 030.jpg" alt="2008-06-photo-canon 030.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 
 Boys get to work:  
 
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/2008-06-photo-canon 031.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/2008-06-photo-canon 031.jpg" alt="2008-06-photo-canon 031.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/2008-06-photo-canon 031.jpg" target="_blank">
+    <img src="/images/2008-06-photo-canon 031.jpg" alt="2008-06-photo-canon 031.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 
   
 
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/2008-06-photo-canon 032.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/2008-06-photo-canon 032.jpg" alt="2008-06-photo-canon 032.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/2008-06-photo-canon 032.jpg" target="_blank">
+    <img src="/images/2008-06-photo-canon 032.jpg" alt="2008-06-photo-canon 032.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 
@@ -60,40 +60,40 @@ Pretty happy?
   
 
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/photo-canon 034.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/photo-canon 034.jpg" alt="photo-canon 034.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/photo-canon 034.jpg" target="_blank">
+    <img src="/images/photo-canon 034.jpg" alt="photo-canon 034.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 
 Finishing touches:  
 
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/2008-06-photo-canon 035.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/2008-06-photo-canon 035.jpg" alt="2008-06-photo-canon 035.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/2008-06-photo-canon 035.jpg" target="_blank">
+    <img src="/images/2008-06-photo-canon 035.jpg" alt="2008-06-photo-canon 035.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 
   
 
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/2008-06-photo-canon 036.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/2008-06-photo-canon 036.jpg" alt="2008-06-photo-canon 036.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/2008-06-photo-canon 036.jpg" target="_blank">
+    <img src="/images/2008-06-photo-canon 036.jpg" alt="2008-06-photo-canon 036.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 
 And the moment S pulls a proper "you've missed a bit" moment - when she points out that the stickers on the K-glass which say "Sticker must be on the interior" are actually on the outside...  
 
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/2008-06-photo-canon 037.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/2008-06-photo-canon 037.jpg" alt="2008-06-photo-canon 037.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/2008-06-photo-canon 037.jpg" target="_blank">
+    <img src="/images/2008-06-photo-canon 037.jpg" alt="2008-06-photo-canon 037.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 
 Cue much head scratching:  
 
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/2008-06-photo-canon 038.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/2008-06-photo-canon 038.jpg" alt="2008-06-photo-canon 038.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/2008-06-photo-canon 038.jpg" target="_blank">
+    <img src="/images/2008-06-photo-canon 038.jpg" alt="2008-06-photo-canon 038.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 
@@ -104,8 +104,8 @@ Until it is finally understood that the K-glass is on both sides and the sticker
   
 
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/photo-canon 039.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/photo-canon 039.jpg" alt="photo-canon 039.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/photo-canon 039.jpg" target="_blank">
+    <img src="/images/photo-canon 039.jpg" alt="photo-canon 039.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
 
@@ -114,7 +114,7 @@ And the garden, clear at last:
   
 
 <div class="single-image" style="margin: 20px 0;">
-  <a href="/grosvenorgardens/images/2008-06-photo-canon 043.jpg" target="_blank">
-    <img src="/grosvenorgardens/images/2008-06-photo-canon 043.jpg" alt="2008-06-photo-canon 043.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  <a href="/images/2008-06-photo-canon 043.jpg" target="_blank">
+    <img src="/images/2008-06-photo-canon 043.jpg" alt="2008-06-photo-canon 043.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
   </a>
 </div>
