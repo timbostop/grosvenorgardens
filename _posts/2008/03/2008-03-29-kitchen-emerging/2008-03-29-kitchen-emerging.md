@@ -16,108 +16,60 @@ Elsewhere the house has been tidied up and feathers smoothed (a little). I don't
 Painters began working on the front of the house (filling the windows etc) and also doing the diluted emulsion base-coat on the walls in the front bedroom. So it really will start feeling like home soon.  
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 085.jpg" target="_blank">
-    <img src="/images/photo-canon 085.jpg" alt="photo-canon 085.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20085.jpg)
 
 Putting the roof in:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 087.jpg" target="_blank">
-    <img src="/images/photo-canon 087.jpg" alt="photo-canon 087.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20087.jpg)
 
 "Soldiers" above the door, now in the right place. This rear wall will have a "paraphet" top which hides the short flat roof behind it.  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 088.jpg" target="_blank">
-    <img src="/images/photo-canon 088.jpg" alt="photo-canon 088.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20088.jpg)
 
 Juliette balcony above is finally fitted and looking nice.  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 089.jpg" target="_blank">
-    <img src="/images/photo-canon 089.jpg" alt="photo-canon 089.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20089.jpg)
 
 Putting the bricks in:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 091.jpg" target="_blank">
-    <img src="/images/photo-canon 091.jpg" alt="photo-canon 091.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20091.jpg)
 
   
 
 The match with the old wall is pretty good - all the bricks have been reused from the dismantled walls/chimney breasts:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 093.jpg" target="_blank">
-    <img src="/images/photo-canon 093.jpg" alt="photo-canon 093.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20093.jpg)
 
 These are the concrete beams for the kitchen floor:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 094.jpg" target="_blank">
-    <img src="/images/photo-canon 094.jpg" alt="photo-canon 094.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20094.jpg)
 
 Mixing cement:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 096.jpg" target="_blank">
-    <img src="/images/photo-canon 096.jpg" alt="photo-canon 096.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20096.jpg)
 
 The interior steels - now nicely out of the way of the kitchen space - and it feels very spacious as a result.  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 097.jpg" target="_blank">
-    <img src="/images/photo-canon 097.jpg" alt="photo-canon 097.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20097.jpg)
 
 Footings for the steel "goalposts" now in place. The blocks at the bottom of the wall are where the floor beams rest on:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 098.jpg" target="_blank">
-    <img src="/images/photo-canon 098.jpg" alt="photo-canon 098.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20098.jpg)
 
 Space for veluxes:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 101.jpg" target="_blank">
-    <img src="/images/photo-canon 101.jpg" alt="photo-canon 101.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20101.jpg)
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 103.jpg" target="_blank">
-    <img src="/images/photo-canon 103.jpg" alt="photo-canon 103.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20103.jpg)

@@ -5,10 +5,4 @@ categories:
   - "general"
 ---
 
-<div class="gallery" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
-  <div class="gallery-item" style="flex: 0 0 auto;">
-    <a href="/images/image.png" target="_blank">
-      <img src="/images/image.png" alt="image.png" style="width: 200px; height: auto; object-fit: cover;" loading="lazy" />
-    </a>
-  </div>
-</div>
+\[image: Inline images 1\] \[gallery\]

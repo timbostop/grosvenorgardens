@@ -5,11 +5,7 @@ categories:
   - "general"
 ---
 
-*Unfortunately, some images from this post are missing - they were sadly lost during the blog migration.*
-
-<!-- Broken image reference:
 ![](images/DSCF2648.jpg)
--->
 
 \----- Forwarded Message ---- 
 **From:** A  

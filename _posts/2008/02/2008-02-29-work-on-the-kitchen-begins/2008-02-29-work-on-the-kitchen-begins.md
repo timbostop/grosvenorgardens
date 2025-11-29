@@ -15,11 +15,7 @@ Work began on the rear kitchen extension. There is still quite a lot of "complet
   
 The back of the house came off:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 124.jpg" target="_blank">
-    <img src="/images/photo-canon 124.jpg" alt="photo-canon 124.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20124.jpg)
 
   
 
@@ -27,39 +23,23 @@ And the toilet-outhouse came down too:
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 125.jpg" target="_blank">
-    <img src="/images/photo-canon 125.jpg" alt="photo-canon 125.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20125.jpg)
 
 Agro props:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 128.jpg" target="_blank">
-    <img src="/images/photo-canon 128.jpg" alt="photo-canon 128.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20128.jpg)
 
 All the foundation dirt had to be taken out by hand through the house:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 132.jpg" target="_blank">
-    <img src="/images/photo-canon 132.jpg" alt="photo-canon 132.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20132.jpg)
 
 Side-return ready for a new boundary wall:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 133.jpg" target="_blank">
-    <img src="/images/photo-canon 133.jpg" alt="photo-canon 133.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20133.jpg)
 
   
 
@@ -67,37 +47,21 @@ The back of the house, with new "matching" loft conversion:
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 135.jpg" target="_blank">
-    <img src="/images/photo-canon 135.jpg" alt="photo-canon 135.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20135.jpg)
 
 Building a wall:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 139.jpg" target="_blank">
-    <img src="/images/photo-canon 139.jpg" alt="photo-canon 139.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20139.jpg)
 
 Breeze blocks go up:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 141.jpg" target="_blank">
-    <img src="/images/photo-canon 141.jpg" alt="photo-canon 141.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20141.jpg)
 
 They had to move a sewer out of the way:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 142.jpg" target="_blank">
-    <img src="/images/photo-canon 142.jpg" alt="photo-canon 142.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20142.jpg)
 
 Damp proof course:  
 
@@ -107,104 +71,60 @@ Damp proof course:
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 143.jpg" target="_blank">
-    <img src="/images/photo-canon 143.jpg" alt="photo-canon 143.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20143.jpg)
 
 Rear yard not looking so tidy:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 185.jpg" target="_blank">
-    <img src="/images/photo-canon 185.jpg" alt="photo-canon 185.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20185.jpg)
 
 Hole in the wall?  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 186.jpg" target="_blank">
-    <img src="/images/photo-canon 186.jpg" alt="photo-canon 186.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20186.jpg)
 
 Big hole in the wall:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 187.jpg" target="_blank">
-    <img src="/images/photo-canon 187.jpg" alt="photo-canon 187.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20187.jpg)
 
 Very neat "Flemish" brickwork - the new rear wall:  
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 193.jpg" target="_blank">
-    <img src="/images/photo-canon 193.jpg" alt="photo-canon 193.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20193.jpg)
 
 Pad-stones ready to receive the steel beams:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 194.jpg" target="_blank">
-    <img src="/images/photo-canon 194.jpg" alt="photo-canon 194.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20194.jpg)
 
 Into next-door's garden:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 195.jpg" target="_blank">
-    <img src="/images/photo-canon 195.jpg" alt="photo-canon 195.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20195.jpg)
 
 Garden:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 198.jpg" target="_blank">
-    <img src="/images/photo-canon 198.jpg" alt="photo-canon 198.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20198.jpg)
 
 Big pile of bricks (fortunately they get to use lots of the old ones):  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 199.jpg" target="_blank">
-    <img src="/images/photo-canon 199.jpg" alt="photo-canon 199.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20199.jpg)
 
 New sewer hole:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 200.jpg" target="_blank">
-    <img src="/images/photo-canon 200.jpg" alt="photo-canon 200.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20200.jpg)
 
 Insulation keeping the wall warm:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 201.jpg" target="_blank">
-    <img src="/images/photo-canon 201.jpg" alt="photo-canon 201.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20201.jpg)
 
   
 
@@ -212,36 +132,20 @@ Juliette balcony still to go in - matching the neighbours. Although we noticed o
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 202.jpg" target="_blank">
-    <img src="/images/photo-canon 202.jpg" alt="photo-canon 202.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20202.jpg)
 
 Detail on the Juliette:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 203.jpg" target="_blank">
-    <img src="/images/photo-canon 203.jpg" alt="photo-canon 203.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20203.jpg)
 
 Kitchen door way:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 214.jpg" target="_blank">
-    <img src="/images/photo-canon 214.jpg" alt="photo-canon 214.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20214.jpg)
 
 And from above:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 218.jpg" target="_blank">
-    <img src="/images/photo-canon 218.jpg" alt="photo-canon 218.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20218.jpg)

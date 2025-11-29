@@ -7,91 +7,51 @@ categories:
 
 The kitchen itself turns up (and in one day is laid out):  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-05-photo-canon 044.jpg" target="_blank">
-    <img src="/images/2008-05-photo-canon 044.jpg" alt="2008-05-photo-canon 044.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20044.jpg)  
 The start of the island:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-05-photo-canon 045.jpg" target="_blank">
-    <img src="/images/2008-05-photo-canon 045.jpg" alt="2008-05-photo-canon 045.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20045.jpg)
 
 Contrasting wood and white:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 046.jpg" target="_blank">
-    <img src="/images/photo-canon 046.jpg" alt="photo-canon 046.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20046.jpg)
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 048.jpg" target="_blank">
-    <img src="/images/photo-canon 048.jpg" alt="photo-canon 048.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20048.jpg)
 
 Corridor of white:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-05-photo-canon 049.jpg" target="_blank">
-    <img src="/images/2008-05-photo-canon 049.jpg" alt="2008-05-photo-canon 049.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20049.jpg)
 
 The worktop:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-05-photo-canon 050.jpg" target="_blank">
-    <img src="/images/2008-05-photo-canon 050.jpg" alt="2008-05-photo-canon 050.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20050.jpg)
 
 Handles:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 051.jpg" target="_blank">
-    <img src="/images/photo-canon 051.jpg" alt="photo-canon 051.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20051.jpg)
 
 Hinges:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-05-photo-canon 053.jpg" target="_blank">
-    <img src="/images/2008-05-photo-canon 053.jpg" alt="2008-05-photo-canon 053.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20053.jpg)
 
 Drawers:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-05-photo-canon 054.jpg" target="_blank">
-    <img src="/images/2008-05-photo-canon 054.jpg" alt="2008-05-photo-canon 054.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20054.jpg)
 
 Graphite oak doors, fortunately behind plastic by now:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-05-photo-canon 061.jpg" target="_blank">
-    <img src="/images/2008-05-photo-canon 061.jpg" alt="2008-05-photo-canon 061.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20061.jpg)

@@ -11,71 +11,43 @@ The veluxes are in and the floor is (mostly) down:
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 105.jpg" target="_blank">
-    <img src="/images/photo-canon 105.jpg" alt="photo-canon 105.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20105.jpg)
 
 Corridor:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 106.jpg" target="_blank">
-    <img src="/images/photo-canon 106.jpg" alt="photo-canon 106.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20106.jpg)
 
 Veluxes, nice and big:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 108.jpg" target="_blank">
-    <img src="/images/photo-canon 108.jpg" alt="photo-canon 108.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20108.jpg)
 
 And the soldiers finished, floor level in:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 113.jpg" target="_blank">
-    <img src="/images/photo-canon 113.jpg" alt="photo-canon 113.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20113.jpg)
 
 Those veluxes again:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 116.jpg" target="_blank">
-    <img src="/images/photo-canon 116.jpg" alt="photo-canon 116.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20116.jpg)
 
 Flooring:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 117.jpg" target="_blank">
-    <img src="/images/photo-canon 117.jpg" alt="photo-canon 117.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20117.jpg)
 
 Plumbing first fix comes next week:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 119.jpg" target="_blank">
-    <img src="/images/photo-canon 119.jpg" alt="photo-canon 119.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20119.jpg)
 
 And the decorating begins upstairs - this is the diluted undercoat to seal the plaster but already the room looks so much cleaner and spacious:  
 
@@ -85,100 +57,56 @@ And the decorating begins upstairs - this is the diluted undercoat to seal the p
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 123.jpg" target="_blank">
-    <img src="/images/photo-canon 123.jpg" alt="photo-canon 123.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20123.jpg)
 
 A More Space technical drawing?  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 126.jpg" target="_blank">
-    <img src="/images/photo-canon 126.jpg" alt="photo-canon 126.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20126.jpg)
 
 Veluxes from the top:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 130.jpg" target="_blank">
-    <img src="/images/photo-canon 130.jpg" alt="photo-canon 130.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20130.jpg)
 
 And feet on the new Juliette balcony, finally in:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-03-photo-canon 132.jpg" target="_blank">
-    <img src="/images/2008-03-photo-canon 132.jpg" alt="2008-03-photo-canon 132.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20132.jpg)
 
 The roofline:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-03-photo-canon 133.jpg" target="_blank">
-    <img src="/images/2008-03-photo-canon 133.jpg" alt="2008-03-photo-canon 133.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20133.jpg)
 
 Leading around the bathroom window:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-03-photo-canon 135.jpg" target="_blank">
-    <img src="/images/2008-03-photo-canon 135.jpg" alt="2008-03-photo-canon 135.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20135.jpg)
 
 Tiling in the loft bathroom:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 136.jpg" target="_blank">
-    <img src="/images/photo-canon 136.jpg" alt="photo-canon 136.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20136.jpg)
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 138.jpg" target="_blank">
-    <img src="/images/photo-canon 138.jpg" alt="photo-canon 138.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20138.jpg)
 
 Apertures for shampoos etc:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-03-photo-canon 141.jpg" target="_blank">
-    <img src="/images/2008-03-photo-canon 141.jpg" alt="2008-03-photo-canon 141.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20141.jpg)
 
 Bricking up over the steels in the study:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 144.jpg" target="_blank">
-    <img src="/images/photo-canon 144.jpg" alt="photo-canon 144.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20144.jpg)
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 145.jpg" target="_blank">
-    <img src="/images/photo-canon 145.jpg" alt="photo-canon 145.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20145.jpg)

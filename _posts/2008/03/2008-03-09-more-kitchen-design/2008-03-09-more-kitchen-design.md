@@ -18,26 +18,14 @@ The key problem with this kitchen room is that it has no corners. Because of the
 So we've had to be a bit creative. We think this layout will feel "spacious" but still retains the minimum requisite of worktop (which is in short supply) by using a wide island.  
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/Kitchen-reality.jpg" target="_blank">
-    <img src="/images/Kitchen-reality.jpg" alt="Kitchen-reality.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/Kitchen-reality.jpg)
 
 An island and a fridge:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/Kitchen-reality2.jpg" target="_blank">
-    <img src="/images/Kitchen-reality2.jpg" alt="Kitchen-reality2.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/Kitchen-reality2.jpg)
 
 And the view from the decking:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/Kitchen-reality3.jpg" target="_blank">
-    <img src="/images/Kitchen-reality3.jpg" alt="Kitchen-reality3.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/Kitchen-reality3.jpg)  
 
 Any thoughts?

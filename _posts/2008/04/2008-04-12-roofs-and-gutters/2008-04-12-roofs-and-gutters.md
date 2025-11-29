@@ -19,268 +19,160 @@ Here's a run through of the latest progress:
   
 Stairs get a coat of white paint:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-04-photo-canon 001.jpg" target="_blank">
-    <img src="/images/2008-04-photo-canon 001.jpg" alt="2008-04-photo-canon 001.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20001.jpg)
 
 Door with broken glass:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 004.jpg" target="_blank">
-    <img src="/images/photo-canon 004.jpg" alt="photo-canon 004.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20004.jpg)
 
 Sockets in the kitchen (nearly the right place):  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-04-photo-canon 013.jpg" target="_blank">
-    <img src="/images/2008-04-photo-canon 013.jpg" alt="2008-04-photo-canon 013.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20013.jpg)
 
 Hallway base coat:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 020.jpg" target="_blank">
-    <img src="/images/photo-canon 020.jpg" alt="photo-canon 020.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20020.jpg)
 
 Tiling in the bathroom nearly done:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 024.jpg" target="_blank">
-    <img src="/images/photo-canon 024.jpg" alt="photo-canon 024.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20024.jpg)
 
 Tiling in the bathroom:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-04-photo-canon 025.jpg" target="_blank">
-    <img src="/images/2008-04-photo-canon 025.jpg" alt="2008-04-photo-canon 025.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20025.jpg)
 
 And the floor, looking nice:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 029.jpg" target="_blank">
-    <img src="/images/photo-canon 029.jpg" alt="photo-canon 029.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20029.jpg)
 
 Veluxes in the dark:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-04-photo-canon 035.jpg" target="_blank">
-    <img src="/images/2008-04-photo-canon 035.jpg" alt="2008-04-photo-canon 035.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20035.jpg)
 
 And the light:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-04-photo-canon 043.jpg" target="_blank">
-    <img src="/images/2008-04-photo-canon 043.jpg" alt="2008-04-photo-canon 043.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20043.jpg)
 
 Corner:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 044.jpg" target="_blank">
-    <img src="/images/photo-canon 044.jpg" alt="photo-canon 044.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20044.jpg)
 
 Floor - the utilities need to move to the circle...  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 045.jpg" target="_blank">
-    <img src="/images/photo-canon 045.jpg" alt="photo-canon 045.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20045.jpg)
 
 Plastered walls:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 049.jpg" target="_blank">
-    <img src="/images/photo-canon 049.jpg" alt="photo-canon 049.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20049.jpg)
 
 Back of the house, getting close:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 050.jpg" target="_blank">
-    <img src="/images/photo-canon 050.jpg" alt="photo-canon 050.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20050.jpg)
 
 Clean white:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 052.jpg" target="_blank">
-    <img src="/images/photo-canon 052.jpg" alt="photo-canon 052.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20052.jpg)
 
 Natural calico - the finished paint colour in the 1st floor bedroom:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 053.jpg" target="_blank">
-    <img src="/images/photo-canon 053.jpg" alt="photo-canon 053.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20053.jpg)
 
 And again:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-04-photo-canon 054.jpg" target="_blank">
-    <img src="/images/2008-04-photo-canon 054.jpg" alt="2008-04-photo-canon 054.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20054.jpg)
 
 And again:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 055.jpg" target="_blank">
-    <img src="/images/photo-canon 055.jpg" alt="photo-canon 055.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20055.jpg)
 
 Ladder:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 056.jpg" target="_blank">
-    <img src="/images/photo-canon 056.jpg" alt="photo-canon 056.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20056.jpg)
 
 And the new roof - hopefully not quite finished, some more tiles to go in:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-04-photo-canon 058.jpg" target="_blank">
-    <img src="/images/2008-04-photo-canon 058.jpg" alt="2008-04-photo-canon 058.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20058.jpg)
 
 Water?  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-04-photo-canon 060.jpg" target="_blank">
-    <img src="/images/2008-04-photo-canon 060.jpg" alt="2008-04-photo-canon 060.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20060.jpg)
 
 Leading in the paraphet - roof terrace for the study?  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 063.jpg" target="_blank">
-    <img src="/images/photo-canon 063.jpg" alt="photo-canon 063.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20063.jpg)
 
 Gulley:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 064.jpg" target="_blank">
-    <img src="/images/photo-canon 064.jpg" alt="photo-canon 064.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20064.jpg)
 
 Loft bathroom floor and a place for the toilet:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 067.jpg" target="_blank">
-    <img src="/images/photo-canon 067.jpg" alt="photo-canon 067.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20067.jpg)
 
 Shower:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-04-photo-canon 068.jpg" target="_blank">
-    <img src="/images/2008-04-photo-canon 068.jpg" alt="2008-04-photo-canon 068.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20068.jpg)
 
 Tidy:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 071.jpg" target="_blank">
-    <img src="/images/photo-canon 071.jpg" alt="photo-canon 071.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20071.jpg)
 
 Roof light:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-04-photo-canon 072.jpg" target="_blank">
-    <img src="/images/2008-04-photo-canon 072.jpg" alt="2008-04-photo-canon 072.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20072.jpg)
 
 And the front of the house:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-04-photo-canon 074.jpg" target="_blank">
-    <img src="/images/2008-04-photo-canon 074.jpg" alt="2008-04-photo-canon 074.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20074.jpg)

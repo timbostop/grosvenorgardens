@@ -15,11 +15,7 @@ Here's a few select photos from the day:
   
 Shed gets a new roof:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 001.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 001.jpg" alt="2008-06-photo-canon 001.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20001.jpg)
 
   
 
@@ -27,368 +23,220 @@ Garden gets a bit of a makeover, courtesy of S:
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 002.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 002.jpg" alt="2008-06-photo-canon 002.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20002.jpg)
 
 Windows open:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 006.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 006.jpg" alt="2008-06-photo-canon 006.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20006.jpg)
 
 Hob ready to go in?  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 007.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 007.jpg" alt="2008-06-photo-canon 007.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20007.jpg)
 
 Ovens etcL  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 008.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 008.jpg" alt="2008-06-photo-canon 008.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20008.jpg)
 
 Plumbing for the sink - which is now with the Corian (worktop men):  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 009.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 009.jpg" alt="2008-06-photo-canon 009.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20009.jpg)
 
 Touch latches fitted to the cupboards:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 010.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 010.jpg" alt="2008-06-photo-canon 010.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20010.jpg)
 
 And closed:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 012.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 012.jpg" alt="2008-06-photo-canon 012.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20012.jpg)
 
 Open:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 013.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 013.jpg" alt="2008-06-photo-canon 013.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20013.jpg)
 
 Underfloor heating:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 015.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 015.jpg" alt="2008-06-photo-canon 015.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20015.jpg)
 
 DB, working hard in the utility room:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 018.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 018.jpg" alt="2008-06-photo-canon 018.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20018.jpg)
 
 Shelves:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 020.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 020.jpg" alt="2008-06-photo-canon 020.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20020.jpg)
 
 And clean bathrooms:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 024.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 024.jpg" alt="2008-06-photo-canon 024.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20024.jpg)
 
   
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 025.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 025.jpg" alt="2008-06-photo-canon 025.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20025.jpg)
 
 Room with a view:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 028.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 028.jpg" alt="2008-06-photo-canon 028.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20028.jpg)
 
 Balcony:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 029.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 029.jpg" alt="2008-06-photo-canon 029.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20029.jpg)
 
   
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 032.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 032.jpg" alt="2008-06-photo-canon 032.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20032.jpg)
 
 Something about exhausting the boiler?  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 033.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 033.jpg" alt="2008-06-photo-canon 033.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20033.jpg)
 
 Dressing room:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 034.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 034.jpg" alt="2008-06-photo-canon 034.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20034.jpg)
 
 Fireplace and bed in the right place:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 037.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 037.jpg" alt="2008-06-photo-canon 037.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20037.jpg)
 
 Cupboard:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 039.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 039.jpg" alt="2008-06-photo-canon 039.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20039.jpg)
 
 MDF worktop? For now at least:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 041.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 041.jpg" alt="2008-06-photo-canon 041.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20041.jpg)
 
 DB proud:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 043.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 043.jpg" alt="2008-06-photo-canon 043.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20043.jpg)
 
 Fridge etc:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 047.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 047.jpg" alt="2008-06-photo-canon 047.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20047.jpg)
 
 Kitchen:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 048.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 048.jpg" alt="2008-06-photo-canon 048.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20048.jpg)
 
   
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 049.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 049.jpg" alt="2008-06-photo-canon 049.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20049.jpg)
 
 Plans:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 050.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 050.jpg" alt="2008-06-photo-canon 050.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20050.jpg)
 
 Utility room gets cleaned and polished:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 051.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 051.jpg" alt="2008-06-photo-canon 051.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20051.jpg)
 
 Tap:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 052.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 052.jpg" alt="2008-06-photo-canon 052.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20052.jpg)
 
 Dining room cleaned up:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 057.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 057.jpg" alt="2008-06-photo-canon 057.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20057.jpg)
 
 Sofa and piano:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 058.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 058.jpg" alt="2008-06-photo-canon 058.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20058.jpg)
 
 Sink:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 060.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 060.jpg" alt="2008-06-photo-canon 060.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20060.jpg)
 
 Clean bog, for once:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 061.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 061.jpg" alt="2008-06-photo-canon 061.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20061.jpg)
 
 And clean windows:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 062.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 062.jpg" alt="2008-06-photo-canon 062.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20062.jpg)
 
 Bath  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 063.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 063.jpg" alt="2008-06-photo-canon 063.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20063.jpg)
 
 Cleaning woman, works on windows:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 066.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 066.jpg" alt="2008-06-photo-canon 066.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20066.jpg)
 
 Exhaust:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 067.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 067.jpg" alt="2008-06-photo-canon 067.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20067.jpg)
 
 Finished windows with curtain poles:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 074.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 074.jpg" alt="2008-06-photo-canon 074.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20074.jpg)

@@ -5,11 +5,7 @@ categories:
   - "general"
 ---
 
-*Unfortunately, some images from this post are missing - they were sadly lost during the blog migration.*
-
-<!-- Broken image reference:
 [![](images/image.png.scaled.500.jpg)](http://posterous.com/getfile/files.posterous.com/tbbloghosting/gkYle9A3qnB46gxSN82WF0K3H89aRZeG3wNPWylV0MqBQ0OPP3NDQQMiaArZ/image.png.scaled.1000.jpg)
--->
 
 The view from our tent in camp, first day in the Serengeti this trip. Last night we stayed with Jo and Jean our friends and safari guides in their amazing house come school in Arusha. This morning we got a flight on a twin otter from then to Karatonga air strip.
 

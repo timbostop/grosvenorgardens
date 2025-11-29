@@ -5,8 +5,4 @@ categories:
   - "general"
 ---
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-11-photo-canon 031.jpg" target="_blank">
-    <img src="/images/2008-11-photo-canon 031.jpg" alt="2008-11-photo-canon 031.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+I've been meaning to put some "before" and "after" shots up for a while. Need to take some more to summarise it nicely. ![](images/house.jpg) ![](images/photo-002.jpg) ![](images/front-bedroom.jpg) ![](images/1525542693_184107019f.jpg) ![](images/photo-canon%20115.jpg) ![](images/toilets.jpg) ![](images/before.jpg) ![](images/photo-canon%20031.jpg)

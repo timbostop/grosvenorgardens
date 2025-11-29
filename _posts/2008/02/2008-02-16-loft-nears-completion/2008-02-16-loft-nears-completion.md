@@ -26,345 +26,169 @@ Here's some photos of the progress:
 Prior to plasterboarding:  
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 001.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 001.jpg" alt="2008-02-photo-canon 001.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20001.jpg)
 
 Slates going on the rear roof:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 005.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 005.jpg" alt="2008-02-photo-canon 005.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20005.jpg)
 
 And felt ready to go on top:  
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 011.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 011.jpg" alt="2008-02-photo-canon 011.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20011.jpg)
 
 Plastering around the veluxes:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 016.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 016.jpg" alt="2008-02-photo-canon 016.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20016.jpg)
 
 And the plasterboarded whole:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 017.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 017.jpg" alt="2008-02-photo-canon 017.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20017.jpg)
 
 Detail on the rear "box", note the leading around the window:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 018.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 018.jpg" alt="2008-02-photo-canon 018.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20018.jpg)
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 026.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 026.jpg" alt="2008-02-photo-canon 026.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+And the front roof, ready for tiling:![](images/photo-canon%20026.jpg)
 
 Door frames go in: (this one on the new ensuite bathroom):  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 028.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 028.jpg" alt="2008-02-photo-canon 028.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20028.jpg)
 
 And a pipe for air-conditioning in the future:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 031.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 031.jpg" alt="2008-02-photo-canon 031.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20031.jpg)
 
 Re-boarding where they had to cut out for the steel beam to go in: (now all plastered too):  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 036.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 036.jpg" alt="2008-02-photo-canon 036.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20036.jpg)
 
 Plastering under the stairs:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 038.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 038.jpg" alt="2008-02-photo-canon 038.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20038.jpg)
 
 Scaffolders, taking the roof off in noisy style:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 050.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 050.jpg" alt="2008-02-photo-canon 050.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20050.jpg)
 
 Dropping the corrugated sheets. Neighbours not impressed:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 051.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 051.jpg" alt="2008-02-photo-canon 051.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20051.jpg)
 
 Spot the "friend", still with us:(keeps turning up, no matter how many times we bag her up):  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 055.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 055.jpg" alt="2008-02-photo-canon 055.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20055.jpg)  
 
 Kickboards on the utility rooms:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 056.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 056.jpg" alt="2008-02-photo-canon 056.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20056.jpg)
 
 Window in the bathroom:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 060.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 060.jpg" alt="2008-02-photo-canon 060.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20060.jpg)
 
 Completed "rear box":
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 067.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 067.jpg" alt="2008-02-photo-canon 067.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20067.jpg)
 
 Rear roof:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 068.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 068.jpg" alt="2008-02-photo-canon 068.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20068.jpg)
 
 Just needs a wash:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 069.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 069.jpg" alt="2008-02-photo-canon 069.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20069.jpg)
 
 Detailing on the felt and soffit:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 071.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 071.jpg" alt="2008-02-photo-canon 071.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20071.jpg)
 
 More detail:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 072.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 072.jpg" alt="2008-02-photo-canon 072.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20072.jpg)
 
 Rear roof:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 073.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 073.jpg" alt="2008-02-photo-canon 073.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20073.jpg)
 
 Pointing?
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 074.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 074.jpg" alt="2008-02-photo-canon 074.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20074.jpg)
 
 Cement:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 076.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 076.jpg" alt="2008-02-photo-canon 076.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20076.jpg)
 
 And corner tiles:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 082.jpg" target="_blank">
-    <img src="/images/photo-canon 082.jpg" alt="photo-canon 082.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20082.jpg)
 
 Englishman, castle etc
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 089.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 089.jpg" alt="2008-02-photo-canon 089.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20089.jpg)
 
 Chimney in need of attention:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 090.jpg" target="_blank">
-    <img src="/images/photo-canon 090.jpg" alt="photo-canon 090.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20090.jpg)
 
 Domelight:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 094.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 094.jpg" alt="2008-02-photo-canon 094.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20094.jpg)
 
 Roof, flat:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 095.jpg" target="_blank">
-    <img src="/images/photo-canon 095.jpg" alt="photo-canon 095.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20095.jpg)
 
 Our neighbours have "vents".... why? Should we?
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 097.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 097.jpg" alt="2008-02-photo-canon 097.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20097.jpg)
 
 Front roof:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 098.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 098.jpg" alt="2008-02-photo-canon 098.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20098.jpg)
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 099.jpg" target="_blank">
-    <img src="/images/photo-canon 099.jpg" alt="photo-canon 099.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20099.jpg)
 
 Chimney:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 105.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 105.jpg" alt="2008-02-photo-canon 105.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20105.jpg)
 
 Vent from the loo:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 107.jpg" target="_blank">
-    <img src="/images/photo-canon 107.jpg" alt="photo-canon 107.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20107.jpg)
 
 Two domelights:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 108.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 108.jpg" alt="2008-02-photo-canon 108.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20108.jpg)
 
 Juliette doors:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 111.jpg" target="_blank">
-    <img src="/images/photo-canon 111.jpg" alt="photo-canon 111.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20111.jpg)
 
 Internal plasterwork drying out:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 112.jpg" target="_blank">
-    <img src="/images/photo-canon 112.jpg" alt="photo-canon 112.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20112.jpg)
 
 Doors and frames are in:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 113.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 113.jpg" alt="2008-02-photo-canon 113.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+(glad we didn't put a shower in there!)![](images/photo-canon%20113.jpg)
 
 Velux finished:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 115.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 115.jpg" alt="2008-02-photo-canon 115.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20115.jpg)
 
 Door frame:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 116.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 116.jpg" alt="2008-02-photo-canon 116.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20116.jpg)
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 117.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 117.jpg" alt="2008-02-photo-canon 117.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20117.jpg)
 
 Domelight, looking up:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 118.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 118.jpg" alt="2008-02-photo-canon 118.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20118.jpg)
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 120.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 120.jpg" alt="2008-02-photo-canon 120.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20120.jpg)
 
 Builders' tea-room
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-02-photo-canon 123.jpg" target="_blank">
-    <img src="/images/2008-02-photo-canon 123.jpg" alt="2008-02-photo-canon 123.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20123.jpg)

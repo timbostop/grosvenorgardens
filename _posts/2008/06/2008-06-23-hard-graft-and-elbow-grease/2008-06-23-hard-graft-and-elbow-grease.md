@@ -13,119 +13,63 @@ Hope you agree it's now looking fine!
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 088.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 088.jpg" alt="2008-06-photo-canon 088.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20088.jpg)
 
 Clean windows:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 089.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 089.jpg" alt="2008-06-photo-canon 089.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20089.jpg)
 
 Guest bedroom:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 090.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 090.jpg" alt="2008-06-photo-canon 090.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20090.jpg)
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 092.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 092.jpg" alt="2008-06-photo-canon 092.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20092.jpg)
 
 Functioning bathroom with cabinet:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 094.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 094.jpg" alt="2008-06-photo-canon 094.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20094.jpg)
 
 Still got boxes:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 096.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 096.jpg" alt="2008-06-photo-canon 096.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20096.jpg)
 
 Floor needs fixing...:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 097.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 097.jpg" alt="2008-06-photo-canon 097.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20097.jpg)
 
 Kitchen coming on:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 099.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 099.jpg" alt="2008-06-photo-canon 099.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20099.jpg)
 
 Now without plastic covering:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 101.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 101.jpg" alt="2008-06-photo-canon 101.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20101.jpg)
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 102.jpg" target="_blank">
-    <img src="/images/photo-canon 102.jpg" alt="photo-canon 102.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20102.jpg)
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 103.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 103.jpg" alt="2008-06-photo-canon 103.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20103.jpg)
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/photo-canon 104.jpg" target="_blank">
-    <img src="/images/photo-canon 104.jpg" alt="photo-canon 104.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20104.jpg)
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 105.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 105.jpg" alt="2008-06-photo-canon 105.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20105.jpg)
 
   
 
 Seating at the island:
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 106.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 106.jpg" alt="2008-06-photo-canon 106.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20106.jpg)
 
 Our cauliflower plants broke the surface! v. exciting:  
 
@@ -133,34 +77,18 @@ Our cauliflower plants broke the surface! v. exciting:
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 107.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 107.jpg" alt="2008-06-photo-canon 107.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20107.jpg)
 
 Basil (cheated):  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 109.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 109.jpg" alt="2008-06-photo-canon 109.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20109.jpg)
 
 Courgettes:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 113.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 113.jpg" alt="2008-06-photo-canon 113.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20113.jpg)
 
 And a final look from the back of the house:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 115.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 115.jpg" alt="2008-06-photo-canon 115.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20115.jpg)

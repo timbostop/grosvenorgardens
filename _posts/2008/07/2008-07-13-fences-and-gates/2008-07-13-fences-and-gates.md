@@ -12,82 +12,42 @@ The old fence collapsed with the mildest encouragement and so it was a good job 
 
 New fence panel:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-07-photo-canon 001.jpg" target="_blank">
-    <img src="/images/2008-07-photo-canon 001.jpg" alt="2008-07-photo-canon 001.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20001.jpg)
 
 And the supplies:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-07-photo-canon 002.jpg" target="_blank">
-    <img src="/images/2008-07-photo-canon 002.jpg" alt="2008-07-photo-canon 002.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20002.jpg)
 
 Spot the obvious flaw: (we're fixing that next weekend...)  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-07-photo-canon 003.jpg" target="_blank">
-    <img src="/images/2008-07-photo-canon 003.jpg" alt="2008-07-photo-canon 003.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20003.jpg)
 
 At the bottom of the garden, a new fence grew up out of the ground (this required four posts to be concreted into big holes - no small job):  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-07-photo-canon 005.jpg" target="_blank">
-    <img src="/images/2008-07-photo-canon 005.jpg" alt="2008-07-photo-canon 005.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20005.jpg)
 
 And the gate: (salvaged):  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-07-photo-canon 006.jpg" target="_blank">
-    <img src="/images/2008-07-photo-canon 006.jpg" alt="2008-07-photo-canon 006.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20006.jpg)
 
 And behind the shed:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-07-photo-canon 007.jpg" target="_blank">
-    <img src="/images/2008-07-photo-canon 007.jpg" alt="2008-07-photo-canon 007.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20007.jpg)
 
 The garden getting clearer:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-07-photo-canon 011.jpg" target="_blank">
-    <img src="/images/2008-07-photo-canon 011.jpg" alt="2008-07-photo-canon 011.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20011.jpg)
 
 Coming on nicely:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-07-photo-canon 013.jpg" target="_blank">
-    <img src="/images/2008-07-photo-canon 013.jpg" alt="2008-07-photo-canon 013.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20013.jpg)
 
 Decking and table, now usable:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-07-photo-canon 014.jpg" target="_blank">
-    <img src="/images/2008-07-photo-canon 014.jpg" alt="2008-07-photo-canon 014.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20014.jpg)
 
 Butt of all the jokes - now full. (we need another!)  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-07-photo-canon 015.jpg" target="_blank">
-    <img src="/images/2008-07-photo-canon 015.jpg" alt="2008-07-photo-canon 015.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20015.jpg)

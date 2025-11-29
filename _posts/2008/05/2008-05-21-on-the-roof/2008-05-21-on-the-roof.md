@@ -10,11 +10,7 @@ I was on the roof at the weekend fixing the TV aerial - although I still have to
   
 Chimney with the brace for the TV aerial:  
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-05-photo-canon 001.jpg" target="_blank">
-    <img src="/images/2008-05-photo-canon 001.jpg" alt="2008-05-photo-canon 001.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20001.jpg)
 
   
 
@@ -22,59 +18,35 @@ TV aerial ready to go (need a mast):
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-05-photo-canon 002.jpg" target="_blank">
-    <img src="/images/2008-05-photo-canon 002.jpg" alt="2008-05-photo-canon 002.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20002.jpg)
 
   
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-05-photo-canon 004.jpg" target="_blank">
-    <img src="/images/2008-05-photo-canon 004.jpg" alt="2008-05-photo-canon 004.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20004.jpg)
 
 Domelights:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-05-photo-canon 005.jpg" target="_blank">
-    <img src="/images/2008-05-photo-canon 005.jpg" alt="2008-05-photo-canon 005.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20005.jpg)
 
 Our domelight:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-05-photo-canon 006.jpg" target="_blank">
-    <img src="/images/2008-05-photo-canon 006.jpg" alt="2008-05-photo-canon 006.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20006.jpg)
 
 Roof:  
 
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-05-photo-canon 007.jpg" target="_blank">
-    <img src="/images/2008-05-photo-canon 007.jpg" alt="2008-05-photo-canon 007.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20007.jpg)
 
 Velux - and how I got on the roof:  
 
   
   
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-05-photo-canon 009.jpg" target="_blank">
-    <img src="/images/2008-05-photo-canon 009.jpg" alt="2008-05-photo-canon 009.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![](images/photo-canon%20009.jpg)

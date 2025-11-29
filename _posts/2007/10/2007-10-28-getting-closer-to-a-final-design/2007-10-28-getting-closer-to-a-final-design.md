@@ -7,11 +7,7 @@ categories:
 
 The bathroom design is getting closer.
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/chosen-design-view-2.jpg" target="_blank">
-    <img src="/images/chosen-design-view-2.jpg" alt="chosen-design-view-2.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+![chosen-design-view-plan.jpg](images/chosen-design-view-plan.jpg) ![chosen-design-view-1.jpg](images/chosen-design-view-1.jpg) ![chosen-design-view-2.jpg](images/chosen-design-view-2.jpg)
 
 Here's a parts list for ordering this week:
 

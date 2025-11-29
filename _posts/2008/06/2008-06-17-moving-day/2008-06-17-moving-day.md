@@ -5,8 +5,4 @@ categories:
   - "general"
 ---
 
-<div class="single-image" style="margin: 20px 0;">
-  <a href="/images/2008-06-photo-canon 031.jpg" target="_blank">
-    <img src="/images/2008-06-photo-canon 031.jpg" alt="2008-06-photo-canon 031.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
-  </a>
-</div>
+Few photos from moving day for posperity... ![](images/photo-canon 011.jpg) ![](images/photo-canon 012.jpg) ![](images/photo-canon 013.jpg) ![](images/photo-canon 022.jpg) ![](images/photo-canon 023.jpg) ![](images/photo-canon 025.jpg) ![](images/photo-canon 029.jpg) ![](images/photo-canon 030.jpg) ![](images/photo-canon 031.jpg)
