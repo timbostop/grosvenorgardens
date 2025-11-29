@@ -12,7 +12,7 @@ layout: default
     <p class="author_title">By {{site.author}}  ·  {{ post.date | date: "%B %e, %Y" }}  ·  {% include read-time.html content=post.content %}</p>
     
       <div class="entry">
-        {{ post.content | truncate 1200 }}
+        {{ post.content }}
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
