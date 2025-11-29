@@ -20,16 +20,58 @@ On the painting front we have finished paint on the top and middle floors and fi
 And today I booked a move in date for 9th June. Rock on!
 
   
-![](images/photo-canon%20001.jpg)
 
-![](images/photo-canon%20003.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-05/better-roofing/photo-canon%20001.jpg" target="_blank">
+    <img src="/images/2008-05/better-roofing/photo-canon%20001.jpg" alt="photo-canon%20001.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
-![](images/photo-canon%20004.jpg)
 
-![](images/photo-canon%20006.jpg)
 
-![](images/photo-canon%20007.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-05/better-roofing/photo-canon%20003.jpg" target="_blank">
+    <img src="/images/2008-05/better-roofing/photo-canon%20003.jpg" alt="photo-canon%20003.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
-![](images/photo-canon%20008.jpg)
 
-![](images/photo-canon%20009.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-05/better-roofing/photo-canon%20004.jpg" target="_blank">
+    <img src="/images/2008-05/better-roofing/photo-canon%20004.jpg" alt="photo-canon%20004.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
+
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-05/better-roofing/photo-canon%20006.jpg" target="_blank">
+    <img src="/images/2008-05/better-roofing/photo-canon%20006.jpg" alt="photo-canon%20006.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
+
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-05/better-roofing/photo-canon%20007.jpg" target="_blank">
+    <img src="/images/2008-05/better-roofing/photo-canon%20007.jpg" alt="photo-canon%20007.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
+
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-05/better-roofing/photo-canon%20008.jpg" target="_blank">
+    <img src="/images/2008-05/better-roofing/photo-canon%20008.jpg" alt="photo-canon%20008.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
+
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-05/better-roofing/photo-canon%20009.jpg" target="_blank">
+    <img src="/images/2008-05/better-roofing/photo-canon%20009.jpg" alt="photo-canon%20009.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+

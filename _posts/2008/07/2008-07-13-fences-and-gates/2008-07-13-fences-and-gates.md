@@ -12,42 +12,102 @@ The old fence collapsed with the mildest encouragement and so it was a good job 
 
 New fence panel:  
 
-![](images/photo-canon%20001.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/fences-and-gates/photo-canon%20001.jpg" target="_blank">
+    <img src="/images/2008-07/fences-and-gates/photo-canon%20001.jpg" alt="photo-canon%20001.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 And the supplies:  
 
-![](images/photo-canon%20002.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/fences-and-gates/photo-canon%20002.jpg" target="_blank">
+    <img src="/images/2008-07/fences-and-gates/photo-canon%20002.jpg" alt="photo-canon%20002.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Spot the obvious flaw: (we're fixing that next weekend...)  
 
-![](images/photo-canon%20003.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/fences-and-gates/photo-canon%20003.jpg" target="_blank">
+    <img src="/images/2008-07/fences-and-gates/photo-canon%20003.jpg" alt="photo-canon%20003.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 At the bottom of the garden, a new fence grew up out of the ground (this required four posts to be concreted into big holes - no small job):  
 
-![](images/photo-canon%20005.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/fences-and-gates/photo-canon%20005.jpg" target="_blank">
+    <img src="/images/2008-07/fences-and-gates/photo-canon%20005.jpg" alt="photo-canon%20005.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 And the gate: (salvaged):  
 
-![](images/photo-canon%20006.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/fences-and-gates/photo-canon%20006.jpg" target="_blank">
+    <img src="/images/2008-07/fences-and-gates/photo-canon%20006.jpg" alt="photo-canon%20006.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 And behind the shed:  
 
   
 
-![](images/photo-canon%20007.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/fences-and-gates/photo-canon%20007.jpg" target="_blank">
+    <img src="/images/2008-07/fences-and-gates/photo-canon%20007.jpg" alt="photo-canon%20007.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 The garden getting clearer:  
 
-![](images/photo-canon%20011.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/fences-and-gates/photo-canon%20011.jpg" target="_blank">
+    <img src="/images/2008-07/fences-and-gates/photo-canon%20011.jpg" alt="photo-canon%20011.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Coming on nicely:  
 
-![](images/photo-canon%20013.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/fences-and-gates/photo-canon%20013.jpg" target="_blank">
+    <img src="/images/2008-07/fences-and-gates/photo-canon%20013.jpg" alt="photo-canon%20013.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Decking and table, now usable:  
 
-![](images/photo-canon%20014.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/fences-and-gates/photo-canon%20014.jpg" target="_blank">
+    <img src="/images/2008-07/fences-and-gates/photo-canon%20014.jpg" alt="photo-canon%20014.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Butt of all the jokes - now full. (we need another!)  
 
-![](images/photo-canon%20015.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/fences-and-gates/photo-canon%20015.jpg" target="_blank">
+    <img src="/images/2008-07/fences-and-gates/photo-canon%20015.jpg" alt="photo-canon%20015.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+

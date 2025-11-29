@@ -18,61 +18,179 @@ S was on BBQ duties as well as oiling the new garden furniture - so by the end o
   
 Posts and holes dug on the hottest day of the year:  
   
- ![](images/photo-canon%20003.jpg)  
+ 
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/decking-and-fencing/photo-canon%20003.jpg" target="_blank">
+    <img src="/images/2008-07/decking-and-fencing/photo-canon%20003.jpg" alt="photo-canon%20003.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
+  
   
 Decking goes down:  
-![](images/photo-canon%20005.jpg)  
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/decking-and-fencing/photo-canon%20005.jpg" target="_blank">
+    <img src="/images/2008-07/decking-and-fencing/photo-canon%20005.jpg" alt="photo-canon%20005.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
+  
   
 Missing some:  
-![](images/photo-canon%20006.jpg)  
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/decking-and-fencing/photo-canon%20006.jpg" target="_blank">
+    <img src="/images/2008-07/decking-and-fencing/photo-canon%20006.jpg" alt="photo-canon%20006.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
+  
 
 The garden of doom:  
   
   
-![](images/photo-canon%20008.jpg)  
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/decking-and-fencing/photo-canon%20008.jpg" target="_blank">
+    <img src="/images/2008-07/decking-and-fencing/photo-canon%20008.jpg" alt="photo-canon%20008.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
+  
 How to treat your Polish builders - good food, good thrones:  
 
-![](images/photo-canon%20010.jpg)  
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/decking-and-fencing/photo-canon%20010.jpg" target="_blank">
+    <img src="/images/2008-07/decking-and-fencing/photo-canon%20010.jpg" alt="photo-canon%20010.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
+  
 Working hard:  
 
-![](images/photo-canon%20011.jpg)  
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/decking-and-fencing/photo-canon%20011.jpg" target="_blank">
+    <img src="/images/2008-07/decking-and-fencing/photo-canon%20011.jpg" alt="photo-canon%20011.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
+  
 Get your missus on BBQ duty - feeding neighbours and builders:  
 
   
   
-![](images/photo-canon%20012.jpg)  
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/decking-and-fencing/photo-canon%20012.jpg" target="_blank">
+    <img src="/images/2008-07/decking-and-fencing/photo-canon%20012.jpg" alt="photo-canon%20012.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
+  
   
 Fencing panel newly finished:  
 
-![](images/photo-canon%20013.jpg)  
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/decking-and-fencing/photo-canon%20013.jpg" target="_blank">
+    <img src="/images/2008-07/decking-and-fencing/photo-canon%20013.jpg" alt="photo-canon%20013.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
   
-![](images/photo-canon%20015.jpg)  
+  
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/decking-and-fencing/photo-canon%20015.jpg" target="_blank">
+    <img src="/images/2008-07/decking-and-fencing/photo-canon%20015.jpg" alt="photo-canon%20015.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
+  
 And from M's side:  
 
   
-![](images/photo-canon%20016.jpg)  
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/decking-and-fencing/photo-canon%20016.jpg" target="_blank">
+    <img src="/images/2008-07/decking-and-fencing/photo-canon%20016.jpg" alt="photo-canon%20016.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
+  
 Trellis to go up:  
 
-![](images/photo-canon%20017.jpg)  
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/decking-and-fencing/photo-canon%20017.jpg" target="_blank">
+    <img src="/images/2008-07/decking-and-fencing/photo-canon%20017.jpg" alt="photo-canon%20017.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
+  
 And from our side, already with ivy:  
 
   
   
-![](images/photo-canon%20019.jpg)  
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/decking-and-fencing/photo-canon%20019.jpg" target="_blank">
+    <img src="/images/2008-07/decking-and-fencing/photo-canon%20019.jpg" alt="photo-canon%20019.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
+  
 Nice butt:  
 
   
   
-![](images/photo-canon%20021.jpg)  
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/decking-and-fencing/photo-canon%20021.jpg" target="_blank">
+    <img src="/images/2008-07/decking-and-fencing/photo-canon%20021.jpg" alt="photo-canon%20021.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
+  
 
   
 And the beautiful dining set - neatly oiled by S:  
-![](images/photo-canon%20026.jpg)  
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/decking-and-fencing/photo-canon%20026.jpg" target="_blank">
+    <img src="/images/2008-07/decking-and-fencing/photo-canon%20026.jpg" alt="photo-canon%20026.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
+  
 And the twinkly lights:  
-![](images/photo-canon%20027.jpg)  
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/decking-and-fencing/photo-canon%20027.jpg" target="_blank">
+    <img src="/images/2008-07/decking-and-fencing/photo-canon%20027.jpg" alt="photo-canon%20027.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
+  
 And the transformation is complete from THIS:  
 
-![](images/before.jpg)  
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/decking-and-fencing/before.jpg" target="_blank">
+    <img src="/images/2008-07/decking-and-fencing/before.jpg" alt="before.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
+  
 To this:  
   
-![](images/photo-canon%20031.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-07/decking-and-fencing/photo-canon%20031.jpg" target="_blank">
+    <img src="/images/2008-07/decking-and-fencing/photo-canon%20031.jpg" alt="photo-canon%20031.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+

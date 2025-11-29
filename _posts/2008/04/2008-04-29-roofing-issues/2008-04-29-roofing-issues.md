@@ -10,7 +10,13 @@ Fortuitously for us, in the course of inspecting the neighbours damaged domeligh
   
 Felt not fully covering the brick work, as it apparently should:  
 
-![](images/1.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofing-issues/1.jpg" target="_blank">
+    <img src="/images/2008-04/roofing-issues/1.jpg" alt="1.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
   
 
@@ -18,24 +24,54 @@ This, the worst one, an entire section of leading missing from the side of the d
 
   
 
-![](images/2.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofing-issues/2.jpg" target="_blank">
+    <img src="/images/2008-04/roofing-issues/2.jpg" alt="2.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Broken brick on the party wall:  
 
-![](images/3.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofing-issues/3.jpg" target="_blank">
+    <img src="/images/2008-04/roofing-issues/3.jpg" alt="3.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
   
 
-![](images/4.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofing-issues/4.jpg" target="_blank">
+    <img src="/images/2008-04/roofing-issues/4.jpg" alt="4.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Gaping gaps in the felt and scaffold left on the roof:  
 
   
 
-![](images/5.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofing-issues/5.jpg" target="_blank">
+    <img src="/images/2008-04/roofing-issues/5.jpg" alt="5.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Gaps:  
 
   
 
-![](images/6.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofing-issues/6.jpg" target="_blank">
+    <img src="/images/2008-04/roofing-issues/6.jpg" alt="6.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+

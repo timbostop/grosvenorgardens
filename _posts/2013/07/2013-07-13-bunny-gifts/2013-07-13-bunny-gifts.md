@@ -5,4 +5,10 @@ categories:
   - "general"
 ---
 
-... S been busy \[gallery\]
+<div class="gallery" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px; margin: 20px 0;">
+  <div class="gallery-item">
+    <a href="/images/2013-07/bunny-gifts/photo2.jpg" target="_blank">
+      <img src="/images/2013-07/bunny-gifts/photo2.jpg" alt="photo2.jpg" style="width: 100%; height: 200px; object-fit: cover;" loading="lazy" />
+    </a>
+  </div>
+</div>

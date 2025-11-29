@@ -19,160 +19,322 @@ Here's a run through of the latest progress:
   
 Stairs get a coat of white paint:  
 
-![](images/photo-canon%20001.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20001.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20001.jpg" alt="photo-canon%20001.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Door with broken glass:  
 
   
 
-![](images/photo-canon%20004.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20004.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20004.jpg" alt="photo-canon%20004.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Sockets in the kitchen (nearly the right place):  
 
   
 
-![](images/photo-canon%20013.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20013.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20013.jpg" alt="photo-canon%20013.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Hallway base coat:  
 
   
 
-![](images/photo-canon%20020.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20020.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20020.jpg" alt="photo-canon%20020.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Tiling in the bathroom nearly done:  
 
   
 
-![](images/photo-canon%20024.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20024.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20024.jpg" alt="photo-canon%20024.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Tiling in the bathroom:  
 
   
 
-![](images/photo-canon%20025.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20025.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20025.jpg" alt="photo-canon%20025.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 And the floor, looking nice:  
 
   
 
-![](images/photo-canon%20029.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20029.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20029.jpg" alt="photo-canon%20029.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Veluxes in the dark:  
 
   
 
-![](images/photo-canon%20035.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20035.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20035.jpg" alt="photo-canon%20035.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 And the light:  
 
   
 
-![](images/photo-canon%20043.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20043.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20043.jpg" alt="photo-canon%20043.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Corner:  
 
   
 
-![](images/photo-canon%20044.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20044.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20044.jpg" alt="photo-canon%20044.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Floor - the utilities need to move to the circle...  
 
   
 
-![](images/photo-canon%20045.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20045.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20045.jpg" alt="photo-canon%20045.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Plastered walls:  
 
   
 
-![](images/photo-canon%20049.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20049.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20049.jpg" alt="photo-canon%20049.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Back of the house, getting close:  
 
   
 
-![](images/photo-canon%20050.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20050.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20050.jpg" alt="photo-canon%20050.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Clean white:  
 
   
 
-![](images/photo-canon%20052.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20052.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20052.jpg" alt="photo-canon%20052.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Natural calico - the finished paint colour in the 1st floor bedroom:  
 
   
 
-![](images/photo-canon%20053.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20053.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20053.jpg" alt="photo-canon%20053.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 And again:  
 
   
 
-![](images/photo-canon%20054.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20054.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20054.jpg" alt="photo-canon%20054.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 And again:  
 
   
 
-![](images/photo-canon%20055.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20055.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20055.jpg" alt="photo-canon%20055.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Ladder:  
 
   
 
-![](images/photo-canon%20056.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20056.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20056.jpg" alt="photo-canon%20056.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 And the new roof - hopefully not quite finished, some more tiles to go in:  
 
   
 
-![](images/photo-canon%20058.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20058.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20058.jpg" alt="photo-canon%20058.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Water?  
 
   
 
-![](images/photo-canon%20060.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20060.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20060.jpg" alt="photo-canon%20060.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Leading in the paraphet - roof terrace for the study?  
 
   
 
-![](images/photo-canon%20063.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20063.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20063.jpg" alt="photo-canon%20063.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Gulley:  
 
   
 
-![](images/photo-canon%20064.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20064.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20064.jpg" alt="photo-canon%20064.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Loft bathroom floor and a place for the toilet:  
 
   
 
-![](images/photo-canon%20067.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20067.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20067.jpg" alt="photo-canon%20067.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Shower:  
 
   
 
-![](images/photo-canon%20068.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20068.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20068.jpg" alt="photo-canon%20068.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Tidy:  
 
   
 
-![](images/photo-canon%20071.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20071.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20071.jpg" alt="photo-canon%20071.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Roof light:  
 
   
 
-![](images/photo-canon%20072.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20072.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20072.jpg" alt="photo-canon%20072.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 And the front of the house:  
 
   
 
-![](images/photo-canon%20074.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-04/roofs-and-gutters/photo-canon%20074.jpg" target="_blank">
+    <img src="/images/2008-04/roofs-and-gutters/photo-canon%20074.jpg" alt="photo-canon%20074.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+

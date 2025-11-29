@@ -23,43 +23,97 @@ Anyway, some photos:
 
 The patio doors finally arrive, 4 weeks late:  
 
-![](images/photo-canon%20028.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/end-radio-silence/photo-canon%20028.jpg" target="_blank">
+    <img src="/images/2008-06/end-radio-silence/photo-canon%20028.jpg" alt="photo-canon%20028.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Bringing them in:  
 
   
 
-![](images/photo-canon%20030.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/end-radio-silence/photo-canon%20030.jpg" target="_blank">
+    <img src="/images/2008-06/end-radio-silence/photo-canon%20030.jpg" alt="photo-canon%20030.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Boys get to work:  
 
-![](images/photo-canon%20031.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/end-radio-silence/photo-canon%20031.jpg" target="_blank">
+    <img src="/images/2008-06/end-radio-silence/photo-canon%20031.jpg" alt="photo-canon%20031.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
   
 
-![](images/photo-canon%20032.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/end-radio-silence/photo-canon%20032.jpg" target="_blank">
+    <img src="/images/2008-06/end-radio-silence/photo-canon%20032.jpg" alt="photo-canon%20032.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Pretty happy?  
 
   
 
-![](images/photo-canon%20034.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/end-radio-silence/photo-canon%20034.jpg" target="_blank">
+    <img src="/images/2008-06/end-radio-silence/photo-canon%20034.jpg" alt="photo-canon%20034.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Finishing touches:  
 
-![](images/photo-canon%20035.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/end-radio-silence/photo-canon%20035.jpg" target="_blank">
+    <img src="/images/2008-06/end-radio-silence/photo-canon%20035.jpg" alt="photo-canon%20035.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
   
 
-![](images/photo-canon%20036.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/end-radio-silence/photo-canon%20036.jpg" target="_blank">
+    <img src="/images/2008-06/end-radio-silence/photo-canon%20036.jpg" alt="photo-canon%20036.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 And the moment S pulls a proper "you've missed a bit" moment - when she points out that the stickers on the K-glass which say "Sticker must be on the interior" are actually on the outside...  
 
-![](images/photo-canon%20037.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/end-radio-silence/photo-canon%20037.jpg" target="_blank">
+    <img src="/images/2008-06/end-radio-silence/photo-canon%20037.jpg" alt="photo-canon%20037.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Cue much head scratching:  
 
-![](images/photo-canon%20038.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/end-radio-silence/photo-canon%20038.jpg" target="_blank">
+    <img src="/images/2008-06/end-radio-silence/photo-canon%20038.jpg" alt="photo-canon%20038.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
   
 
@@ -67,10 +121,22 @@ Until it is finally understood that the K-glass is on both sides and the sticker
 
   
 
-![](images/photo-canon%20039.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/end-radio-silence/photo-canon%20039.jpg" target="_blank">
+    <img src="/images/2008-06/end-radio-silence/photo-canon%20039.jpg" alt="photo-canon%20039.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 And the garden, clear at last:  
 
   
 
-![](images/photo-canon%20043.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/end-radio-silence/photo-canon%20043.jpg" target="_blank">
+    <img src="/images/2008-06/end-radio-silence/photo-canon%20043.jpg" alt="photo-canon%20043.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+

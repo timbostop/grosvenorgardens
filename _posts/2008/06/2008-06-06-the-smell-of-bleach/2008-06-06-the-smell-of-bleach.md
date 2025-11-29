@@ -15,7 +15,13 @@ Here's a few select photos from the day:
   
 Shed gets a new roof:  
 
-![](images/photo-canon%20001.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20001.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20001.jpg" alt="photo-canon%20001.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
   
 
@@ -23,220 +29,442 @@ Garden gets a bit of a makeover, courtesy of S:
 
   
 
-![](images/photo-canon%20002.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20002.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20002.jpg" alt="photo-canon%20002.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Windows open:  
 
   
 
-![](images/photo-canon%20006.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20006.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20006.jpg" alt="photo-canon%20006.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Hob ready to go in?  
 
   
 
-![](images/photo-canon%20007.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20007.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20007.jpg" alt="photo-canon%20007.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Ovens etcL  
 
   
 
-![](images/photo-canon%20008.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20008.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20008.jpg" alt="photo-canon%20008.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Plumbing for the sink - which is now with the Corian (worktop men):  
 
   
 
-![](images/photo-canon%20009.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20009.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20009.jpg" alt="photo-canon%20009.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Touch latches fitted to the cupboards:  
 
   
 
-![](images/photo-canon%20010.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20010.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20010.jpg" alt="photo-canon%20010.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 And closed:  
 
   
 
-![](images/photo-canon%20012.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20012.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20012.jpg" alt="photo-canon%20012.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Open:  
 
   
 
-![](images/photo-canon%20013.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20013.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20013.jpg" alt="photo-canon%20013.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Underfloor heating:  
 
   
 
-![](images/photo-canon%20015.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20015.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20015.jpg" alt="photo-canon%20015.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 DB, working hard in the utility room:  
 
   
 
-![](images/photo-canon%20018.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20018.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20018.jpg" alt="photo-canon%20018.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Shelves:  
 
   
 
-![](images/photo-canon%20020.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20020.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20020.jpg" alt="photo-canon%20020.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 And clean bathrooms:  
 
   
 
-![](images/photo-canon%20024.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20024.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20024.jpg" alt="photo-canon%20024.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
   
 
   
 
-![](images/photo-canon%20025.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20025.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20025.jpg" alt="photo-canon%20025.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Room with a view:  
 
   
 
-![](images/photo-canon%20028.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20028.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20028.jpg" alt="photo-canon%20028.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Balcony:  
 
   
 
-![](images/photo-canon%20029.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20029.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20029.jpg" alt="photo-canon%20029.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
   
 
   
 
-![](images/photo-canon%20032.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20032.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20032.jpg" alt="photo-canon%20032.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Something about exhausting the boiler?  
 
   
 
-![](images/photo-canon%20033.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20033.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20033.jpg" alt="photo-canon%20033.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Dressing room:  
 
   
 
-![](images/photo-canon%20034.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20034.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20034.jpg" alt="photo-canon%20034.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Fireplace and bed in the right place:  
 
   
 
-![](images/photo-canon%20037.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20037.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20037.jpg" alt="photo-canon%20037.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Cupboard:  
 
   
 
-![](images/photo-canon%20039.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20039.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20039.jpg" alt="photo-canon%20039.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 MDF worktop? For now at least:  
 
   
 
-![](images/photo-canon%20041.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20041.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20041.jpg" alt="photo-canon%20041.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 DB proud:  
 
   
 
-![](images/photo-canon%20043.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20043.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20043.jpg" alt="photo-canon%20043.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Fridge etc:  
 
   
 
-![](images/photo-canon%20047.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20047.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20047.jpg" alt="photo-canon%20047.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Kitchen:  
 
   
 
-![](images/photo-canon%20048.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20048.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20048.jpg" alt="photo-canon%20048.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
   
 
   
 
-![](images/photo-canon%20049.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20049.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20049.jpg" alt="photo-canon%20049.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Plans:  
 
   
 
-![](images/photo-canon%20050.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20050.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20050.jpg" alt="photo-canon%20050.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Utility room gets cleaned and polished:  
 
   
 
-![](images/photo-canon%20051.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20051.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20051.jpg" alt="photo-canon%20051.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Tap:  
 
   
 
-![](images/photo-canon%20052.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20052.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20052.jpg" alt="photo-canon%20052.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Dining room cleaned up:  
 
   
 
-![](images/photo-canon%20057.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20057.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20057.jpg" alt="photo-canon%20057.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Sofa and piano:  
 
   
 
-![](images/photo-canon%20058.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20058.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20058.jpg" alt="photo-canon%20058.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Sink:  
 
   
 
-![](images/photo-canon%20060.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20060.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20060.jpg" alt="photo-canon%20060.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Clean bog, for once:  
 
   
 
-![](images/photo-canon%20061.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20061.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20061.jpg" alt="photo-canon%20061.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 And clean windows:  
 
   
 
-![](images/photo-canon%20062.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20062.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20062.jpg" alt="photo-canon%20062.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Bath  
 
   
 
-![](images/photo-canon%20063.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20063.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20063.jpg" alt="photo-canon%20063.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Cleaning woman, works on windows:  
 
   
 
-![](images/photo-canon%20066.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20066.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20066.jpg" alt="photo-canon%20066.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Exhaust:  
 
   
 
-![](images/photo-canon%20067.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20067.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20067.jpg" alt="photo-canon%20067.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+
 
 Finished windows with curtain poles:  
 
   
 
-![](images/photo-canon%20074.jpg)
+
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/images/2008-06/the-smell-of-bleach/photo-canon%20074.jpg" target="_blank">
+    <img src="/images/2008-06/the-smell-of-bleach/photo-canon%20074.jpg" alt="photo-canon%20074.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+

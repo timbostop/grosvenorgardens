@@ -5,4 +5,4 @@ categories:
   - "general"
 ---
 
-Have a go on the [chicken cam](http://www.grosvenorgardens.com/2008/09/chicken_cam.html) (better during day unless you want to see chicken bottom)
+Have a go on the [chicken cam](/2008/09/05/chicken-cam) (better during day unless you want to see chicken bottom)
