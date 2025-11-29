@@ -9,7 +9,7 @@ layout: default
         <h1>{{ post.title }}</h1>
       </a>
 
-    <p class="author_title">By {{site.author}}  ·  {{ page.date | date: "%B %e, %Y" }}  ·  {% include read-time.html content=post.content %}</p>
+    <p class="author_title">By {{site.author}}  ·  {{ post.date | date: "%B %e, %Y" }}  ·  {% include read-time.html content=post.content %}</p>
     
       <div class="entry">
         {{ post.content | truncate 1200 }}
