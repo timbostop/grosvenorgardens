@@ -5,6 +5,8 @@ categories:
   - "general"
 ---
 
+*Unfortunately, some images from this post are missing - they were sadly lost during the blog migration.*
+
 We had to have a bunch of problems with our boiler rectified (after 5 years since installation). Fortunately (and to their credit), MoreSpace, the company who was responsible for the original install, agreed to put right those problems free of charge. Thank you MoreSpace for doing the following annoying and complicated jobs so professionally and properly:
 
  

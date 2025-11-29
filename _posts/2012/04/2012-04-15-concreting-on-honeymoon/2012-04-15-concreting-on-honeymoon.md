@@ -5,6 +5,8 @@ categories:
   - "general"
 ---
 
+*Unfortunately, some images from this post are missing - they were sadly lost during the blog migration.*
+
 The honeymoon we always dreamed of - laying a concrete base for the new cycle shed...
 
 First time I'd laid concrete and it worked out better than expected - though the shed is in a different place to how we'd planned - but better for it.

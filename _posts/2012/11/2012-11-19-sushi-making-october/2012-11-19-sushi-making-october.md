@@ -5,6 +5,8 @@ categories:
   - "general"
 ---
 
+*Unfortunately, some images from this post are missing - they were sadly lost during the blog migration.*
+
 See what happened when we went on a sushi making course in Wimbledon - and learnt all about how to make Japanese omelette, "fashion sandwich" and sushi/sashimi.
 
 The mackerel and the salmon tasted amazing...

@@ -5,6 +5,8 @@ categories:
   - "general"
 ---
 
+*Unfortunately, some images from this post are missing - they were sadly lost during the blog migration.*
+
 We think it might just have been GG's best street party ever - certainly the biggest turn out we've seen.A fantastic time was had by all, as you can tell from the photos:
 
 (Thanks to the wonderful organising committee for making it happen!)

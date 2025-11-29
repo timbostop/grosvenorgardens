@@ -5,6 +5,8 @@ categories:
   - "general"
 ---
 
+*Unfortunately, some images from this post are missing - they were sadly lost during the blog migration.*
+
 Had a blast this weekend at the biggest festival no one's ever heard of: The Great Dorset Steam Fair.  
 Despite the air bed bursting and the tent being too small, we had a laugh and a great time.
 

@@ -5,4 +5,6 @@ categories:
   - "general"
 ---
 
+*Unfortunately, some images from this post are missing - they were sadly lost during the blog migration.*
+
 ![gg-map.jpg](images/gg-map.jpg) [Grosvenor Gardens](http://www.londontown.com/LondonStreets/grosvenor_gardens_686.html), a sleepy quiet street in East Sheen. Watch this space for more.

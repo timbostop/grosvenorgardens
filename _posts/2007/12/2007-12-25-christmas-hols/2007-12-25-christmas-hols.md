@@ -5,7 +5,12 @@ categories:
   - "general"
 ---
 
-![christmas_gift.jpg](images/christmas_gift.jpg)Thought it would be worth a quick update. The builders are on their two week break - which is a blessing for the neighbours but also a well-earned rest for us too. At least it gives us two weeks to "get ahead" of them again. The decisions, plans, requirements and designs required to keep them moving is quite exhausting sometimes. We had a bit of a confrontation at the end - we didn't want to pay them all they thought was due. Mainly because we've been taught to hold back at least 10% of the total cost until completion and the payment schedule didn't really match that. So the chaps had to go away with half what they wanted - but hopefully it'll mean they return keen to win back the last bit in January. This aint no charity. The good news is there's only a couple of weeks of work left by the Polish crew (although some of that will be at the end). The major items are:
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/christmas_gift.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/christmas_gift.jpg" alt="christmas_gift.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+Thought it would be worth a quick update. The builders are on their two week break - which is a blessing for the neighbours but also a well-earned rest for us too. At least it gives us two weeks to "get ahead" of them again. The decisions, plans, requirements and designs required to keep them moving is quite exhausting sometimes. We had a bit of a confrontation at the end - we didn't want to pay them all they thought was due. Mainly because we've been taught to hold back at least 10% of the total cost until completion and the payment schedule didn't really match that. So the chaps had to go away with half what they wanted - but hopefully it'll mean they return keen to win back the last bit in January. This aint no charity. The good news is there's only a couple of weeks of work left by the Polish crew (although some of that will be at the end). The major items are:
 
 - Kitchen installation (cupboards, electrics, water, gas)
 - Replace skirting boards

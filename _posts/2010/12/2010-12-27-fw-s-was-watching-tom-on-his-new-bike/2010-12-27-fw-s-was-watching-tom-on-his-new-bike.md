@@ -5,6 +5,8 @@ categories:
   - "general"
 ---
 
+*Unfortunately, some images from this post are missing - they were sadly lost during the blog migration.*
+
 ![](images/DSCF2648.jpg)
 
 \----- Forwarded Message ---- 

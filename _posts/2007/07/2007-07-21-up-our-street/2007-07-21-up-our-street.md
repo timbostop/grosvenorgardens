@@ -5,6 +5,8 @@ categories:
   - "general"
 ---
 
+*Unfortunately, some images from this post are missing - they were sadly lost during the blog migration.*
+
 ![ums-logo.gif](images/ums-logo.gif), and our [neighbourhood profile](http://www.upmystreet.com/local/my-neighbours/l/sw14+8by.html).
 
 > Often, many of the people who live in this sort of postcode will be well-off professionals living in larger houses and converted flats. These are known as type 13 in the ACORN classification and 0.87% of the UK’s population live in this type.

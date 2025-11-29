@@ -5,6 +5,8 @@ categories:
   - "general"
 ---
 
+*Unfortunately, some images from this post are missing - they were sadly lost during the blog migration.*
+
 > Hmmm.   
 > 
 > [![Img_9767](images/IMG_9767.jpeg.scaled.500.jpg)](http://getfile0.posterous.com/getfile/files.posterous.com/tbbloghosting/vyK1Cj8byryS026g97eTx7U5Y3Pz3rkklRYH9TuUNWOtCtETsCUwdUdDa11w/IMG_9767.jpeg)

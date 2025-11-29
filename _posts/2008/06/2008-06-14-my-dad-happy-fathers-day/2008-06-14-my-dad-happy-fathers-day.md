@@ -5,7 +5,11 @@ categories:
   - "general"
 ---
 
-![dad.jpg](images/dad.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/dad.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/dad.jpg" alt="dad.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 ## It's fathers day and I want to pay tribute to my dad.
 

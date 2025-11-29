@@ -39,6 +39,11 @@ if grep -q '!\[\](images/' "$POST_FILE"; then
     HAS_IMAGE_REFS=1
 fi
 
+# Also check for images with alt text: ![alt](images/file.jpg)
+if grep -q '!\[.*\](images/' "$POST_FILE"; then
+    HAS_IMAGE_REFS=1
+fi
+
 if [ $HAS_GALLERY -eq 0 ] && [ $HAS_IMAGE_REFS -eq 0 ]; then
     echo "No [gallery] tag or image references found in $POST_FILE"
     exit 0
@@ -141,13 +146,17 @@ while IFS= read -r line; do
             cat "$GALLERY_FILE"
             GALLERY_REPLACED=1
         fi
-    # Check for image reference pattern: ![](images/...)
-    elif echo "$line" | grep -q '!\[\](images/'; then
+    # Check for image reference patterns: ![](images/...) or ![alt](images/...)
+    elif echo "$line" | grep -q '!\[.*\](images/'; then
         # Extract the image filename from the line
-        # Pattern: ![](images/filename.jpg)
-        IMG_REF=$(echo "$line" | sed -n 's/.*!\[\](images\/\([^)]*\)).*/\1/p')
+        # Pattern: ![](images/filename.jpg) or ![alt-text](images/filename.jpg)
+        IMG_REF=$(echo "$line" | sed -n 's/.*!\[.*\](images\/\([^)]*\)).*/\1/p')
 
         if [ -n "$IMG_REF" ]; then
+            # Extract text before and after the image reference
+            BEFORE=$(echo "$line" | sed 's/!\[.*\](images\/[^)]*).*$//')
+            AFTER=$(echo "$line" | sed 's/^.*!\[.*\](images\/[^)]*)//')
+
             # Decode URL encoding for file operations
             IMG_FILE=$(echo "$IMG_REF" | sed 's/%20/ /g')
             SOURCE_PATH="$IMAGES_DIR/$IMG_FILE"
@@ -159,12 +168,19 @@ while IFS= read -r line; do
                 # Build the image path
                 IMG_PATH="/grosvenorgardens/images/${FINAL_NAME}"
 
+                # Output text before image (if any)
+                [ -n "$BEFORE" ] && echo "$BEFORE"
+
                 # Replace with HTML img tag (600px width for single images)
                 echo "<div class=\"single-image\" style=\"margin: 20px 0;\">"
                 echo "  <a href=\"${IMG_PATH}\" target=\"_blank\">"
                 echo "    <img src=\"${IMG_PATH}\" alt=\"${FINAL_NAME}\" style=\"max-width: 600px; width: 100%; height: auto;\" loading=\"lazy\" />"
                 echo "  </a>"
                 echo "</div>"
+
+                # Output text after image (if any)
+                [ -n "$AFTER" ] && echo "$AFTER"
+
                 IMAGE_REFS_REPLACED=$((IMAGE_REFS_REPLACED + 1))
             else
                 echo "Warning: Image not found: $SOURCE_PATH" >&2

@@ -5,6 +5,8 @@ categories:
   - "general"
 ---
 
+*Unfortunately, some images from this post are missing - they were sadly lost during the blog migration.*
+
 Since I last wrote we've been away from holiday but progress has been swift. He's an update:
 
 - Boiler - we have one and it's warming the house. It's great to have the place warming up and gently drying out

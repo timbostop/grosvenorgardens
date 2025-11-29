@@ -5,6 +5,8 @@ categories:
   - "general"
 ---
 
+*Unfortunately, some images from this post are missing - they were sadly lost during the blog migration.*
+
 Shock horror! Some photos below for those who want a quick fix of progress. The house has lights with switches that work and everything! This is a major milestone and makes it come alive for the first time. I can now feel what it's going to actually be like to live there. Nice feeling. Big jobs left are getting the boiler in (it's nearly there) and the heating on - and then the windows and finally then the floors and the fireplace downstairs. The stress is getting to us now - the relentless need to make decisions and get everything ordered at the right time. S has done a sterling job chasing the various suppliers (including actually visiting one of the delinquant ones...). I think we're coping quite well but both of us have "lists of lists" of things to do and chores to run all the time. I managed to get the many copies of the new plans to the surveyer to finally get the party-wall proceedings underway again today - so that is a result too. Here's a few notes, more for us since we're both travelling to the US in the next days.
 
 - In the utility room they need to add plumbing for the washing machine - so far only the sink has plumbing. Where does the waste run?

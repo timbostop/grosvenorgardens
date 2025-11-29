@@ -5,6 +5,8 @@ categories:
   - "general"
 ---
 
+*Unfortunately, some images from this post are missing - they were sadly lost during the blog migration.*
+
 We wanted to update the (messy) office, provide some storage to hide away some of the untidiness and make a more productive and calm environment in which to work… here's 4 days of hard work to get there. And we're pleased with the results.
 
 Still some tidying to do...  
