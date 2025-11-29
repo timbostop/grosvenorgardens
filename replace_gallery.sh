@@ -111,7 +111,7 @@ if [ $HAS_GALLERY -eq 1 ]; then
             # Move image and get final filename
             FINAL_NAME=$(move_image "$img")
 
-            IMG_PATH="/images/${FINAL_NAME}"
+            IMG_PATH="/grosvenorgardens/images/${FINAL_NAME}"
 
             # Add each image to the gallery
             cat >> "$GALLERY_FILE" << EOF
@@ -157,7 +157,7 @@ while IFS= read -r line; do
                 FINAL_NAME=$(move_image "$SOURCE_PATH")
 
                 # Build the image path
-                IMG_PATH="/images/${FINAL_NAME}"
+                IMG_PATH="/grosvenorgardens/images/${FINAL_NAME}"
 
                 # Replace with HTML img tag (600px width for single images)
                 echo "<div class=\"single-image\" style=\"margin: 20px 0;\">"
