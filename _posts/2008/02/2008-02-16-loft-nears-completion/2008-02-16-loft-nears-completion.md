@@ -26,169 +26,345 @@ Here's some photos of the progress:
 Prior to plasterboarding:  
   
 
-![](images/photo-canon%20001.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 001.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 001.jpg" alt="2008-02-photo-canon 001.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Slates going on the rear roof:  
 
-![](images/photo-canon%20005.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 005.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 005.jpg" alt="2008-02-photo-canon 005.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 And felt ready to go on top:  
-![](images/photo-canon%20011.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 011.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 011.jpg" alt="2008-02-photo-canon 011.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Plastering around the veluxes:  
 
-![](images/photo-canon%20016.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 016.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 016.jpg" alt="2008-02-photo-canon 016.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 And the plasterboarded whole:
 
-![](images/photo-canon%20017.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 017.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 017.jpg" alt="2008-02-photo-canon 017.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Detail on the rear "box", note the leading around the window:
 
-![](images/photo-canon%20018.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 018.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 018.jpg" alt="2008-02-photo-canon 018.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
   
 
-And the front roof, ready for tiling:![](images/photo-canon%20026.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 026.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 026.jpg" alt="2008-02-photo-canon 026.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Door frames go in: (this one on the new ensuite bathroom):  
 
-![](images/photo-canon%20028.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 028.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 028.jpg" alt="2008-02-photo-canon 028.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 And a pipe for air-conditioning in the future:
 
-![](images/photo-canon%20031.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 031.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 031.jpg" alt="2008-02-photo-canon 031.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Re-boarding where they had to cut out for the steel beam to go in: (now all plastered too):  
 
-![](images/photo-canon%20036.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 036.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 036.jpg" alt="2008-02-photo-canon 036.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Plastering under the stairs:
 
-![](images/photo-canon%20038.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 038.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 038.jpg" alt="2008-02-photo-canon 038.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Scaffolders, taking the roof off in noisy style:
 
-![](images/photo-canon%20050.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 050.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 050.jpg" alt="2008-02-photo-canon 050.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Dropping the corrugated sheets. Neighbours not impressed:
 
-![](images/photo-canon%20051.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 051.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 051.jpg" alt="2008-02-photo-canon 051.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Spot the "friend", still with us:(keeps turning up, no matter how many times we bag her up):  
 
-![](images/photo-canon%20055.jpg)  
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 055.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 055.jpg" alt="2008-02-photo-canon 055.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Kickboards on the utility rooms:  
 
-![](images/photo-canon%20056.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 056.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 056.jpg" alt="2008-02-photo-canon 056.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Window in the bathroom:
 
-![](images/photo-canon%20060.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 060.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 060.jpg" alt="2008-02-photo-canon 060.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Completed "rear box":
 
-![](images/photo-canon%20067.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 067.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 067.jpg" alt="2008-02-photo-canon 067.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Rear roof:
 
-![](images/photo-canon%20068.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 068.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 068.jpg" alt="2008-02-photo-canon 068.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Just needs a wash:
 
-![](images/photo-canon%20069.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 069.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 069.jpg" alt="2008-02-photo-canon 069.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Detailing on the felt and soffit:
 
-![](images/photo-canon%20071.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 071.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 071.jpg" alt="2008-02-photo-canon 071.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 More detail:
 
-![](images/photo-canon%20072.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 072.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 072.jpg" alt="2008-02-photo-canon 072.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Rear roof:
 
-![](images/photo-canon%20073.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 073.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 073.jpg" alt="2008-02-photo-canon 073.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Pointing?
 
-![](images/photo-canon%20074.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 074.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 074.jpg" alt="2008-02-photo-canon 074.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Cement:
 
-![](images/photo-canon%20076.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 076.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 076.jpg" alt="2008-02-photo-canon 076.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 And corner tiles:
 
-![](images/photo-canon%20082.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 082.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 082.jpg" alt="photo-canon 082.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Englishman, castle etc
 
-![](images/photo-canon%20089.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 089.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 089.jpg" alt="2008-02-photo-canon 089.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Chimney in need of attention:
 
-![](images/photo-canon%20090.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 090.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 090.jpg" alt="photo-canon 090.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Domelight:
 
-![](images/photo-canon%20094.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 094.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 094.jpg" alt="2008-02-photo-canon 094.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Roof, flat:
 
-![](images/photo-canon%20095.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 095.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 095.jpg" alt="photo-canon 095.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Our neighbours have "vents".... why? Should we?
 
-![](images/photo-canon%20097.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 097.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 097.jpg" alt="2008-02-photo-canon 097.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Front roof:
 
-![](images/photo-canon%20098.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 098.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 098.jpg" alt="2008-02-photo-canon 098.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
-![](images/photo-canon%20099.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 099.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 099.jpg" alt="photo-canon 099.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Chimney:
 
-![](images/photo-canon%20105.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 105.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 105.jpg" alt="2008-02-photo-canon 105.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Vent from the loo:
 
-![](images/photo-canon%20107.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 107.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 107.jpg" alt="photo-canon 107.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Two domelights:
 
-![](images/photo-canon%20108.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 108.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 108.jpg" alt="2008-02-photo-canon 108.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Juliette doors:
 
-![](images/photo-canon%20111.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 111.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 111.jpg" alt="photo-canon 111.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Internal plasterwork drying out:
 
-![](images/photo-canon%20112.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 112.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 112.jpg" alt="photo-canon 112.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Doors and frames are in:
 
-(glad we didn't put a shower in there!)![](images/photo-canon%20113.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 113.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 113.jpg" alt="2008-02-photo-canon 113.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Velux finished:
 
-![](images/photo-canon%20115.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 115.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 115.jpg" alt="2008-02-photo-canon 115.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Door frame:
 
-![](images/photo-canon%20116.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 116.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 116.jpg" alt="2008-02-photo-canon 116.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
-![](images/photo-canon%20117.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 117.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 117.jpg" alt="2008-02-photo-canon 117.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Domelight, looking up:
 
-![](images/photo-canon%20118.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 118.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 118.jpg" alt="2008-02-photo-canon 118.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
-![](images/photo-canon%20120.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 120.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 120.jpg" alt="2008-02-photo-canon 120.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Builders' tea-room
 
-![](images/photo-canon%20123.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-02-photo-canon 123.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-02-photo-canon 123.jpg" alt="2008-02-photo-canon 123.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>

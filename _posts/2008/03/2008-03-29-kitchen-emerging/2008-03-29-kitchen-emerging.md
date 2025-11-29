@@ -16,60 +16,108 @@ Elsewhere the house has been tidied up and feathers smoothed (a little). I don't
 Painters began working on the front of the house (filling the windows etc) and also doing the diluted emulsion base-coat on the walls in the front bedroom. So it really will start feeling like home soon.  
   
 
-![](images/photo-canon%20085.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 085.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 085.jpg" alt="photo-canon 085.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Putting the roof in:  
 
   
 
-![](images/photo-canon%20087.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 087.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 087.jpg" alt="photo-canon 087.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 "Soldiers" above the door, now in the right place. This rear wall will have a "paraphet" top which hides the short flat roof behind it.  
 
   
 
-![](images/photo-canon%20088.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 088.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 088.jpg" alt="photo-canon 088.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Juliette balcony above is finally fitted and looking nice.  
 
-![](images/photo-canon%20089.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 089.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 089.jpg" alt="photo-canon 089.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Putting the bricks in:  
 
-![](images/photo-canon%20091.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 091.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 091.jpg" alt="photo-canon 091.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
   
 
 The match with the old wall is pretty good - all the bricks have been reused from the dismantled walls/chimney breasts:  
 
-![](images/photo-canon%20093.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 093.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 093.jpg" alt="photo-canon 093.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 These are the concrete beams for the kitchen floor:  
 
   
 
-![](images/photo-canon%20094.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 094.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 094.jpg" alt="photo-canon 094.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Mixing cement:  
 
   
 
-![](images/photo-canon%20096.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 096.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 096.jpg" alt="photo-canon 096.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 The interior steels - now nicely out of the way of the kitchen space - and it feels very spacious as a result.  
 
   
 
-![](images/photo-canon%20097.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 097.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 097.jpg" alt="photo-canon 097.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Footings for the steel "goalposts" now in place. The blocks at the bottom of the wall are where the floor beams rest on:  
 
   
 
-![](images/photo-canon%20098.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 098.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 098.jpg" alt="photo-canon 098.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Space for veluxes:  
 
-![](images/photo-canon%20101.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 101.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 101.jpg" alt="photo-canon 101.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
-![](images/photo-canon%20103.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 103.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 103.jpg" alt="photo-canon 103.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>

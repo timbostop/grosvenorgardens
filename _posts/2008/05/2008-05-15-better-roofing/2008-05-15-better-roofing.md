@@ -20,16 +20,44 @@ On the painting front we have finished paint on the top and middle floors and fi
 And today I booked a move in date for 9th June. Rock on!
 
   
-![](images/photo-canon%20001.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 001.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 001.jpg" alt="2008-05-photo-canon 001.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
-![](images/photo-canon%20003.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 003.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 003.jpg" alt="2008-05-photo-canon 003.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
-![](images/photo-canon%20004.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 004.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 004.jpg" alt="2008-05-photo-canon 004.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
-![](images/photo-canon%20006.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 006.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 006.jpg" alt="2008-05-photo-canon 006.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
-![](images/photo-canon%20007.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 007.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 007.jpg" alt="2008-05-photo-canon 007.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
-![](images/photo-canon%20008.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 008.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 008.jpg" alt="2008-05-photo-canon 008.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
-![](images/photo-canon%20009.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 009.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 009.jpg" alt="2008-05-photo-canon 009.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>

@@ -18,61 +18,129 @@ S was on BBQ duties as well as oiling the new garden furniture - so by the end o
   
 Posts and holes dug on the hottest day of the year:  
   
- ![](images/photo-canon%20003.jpg)  
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-07-photo-canon 003.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-07-photo-canon 003.jpg" alt="2008-07-photo-canon 003.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
   
 Decking goes down:  
-![](images/photo-canon%20005.jpg)  
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-07-photo-canon 005.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-07-photo-canon 005.jpg" alt="2008-07-photo-canon 005.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
   
 Missing some:  
-![](images/photo-canon%20006.jpg)  
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-07-photo-canon 006.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-07-photo-canon 006.jpg" alt="2008-07-photo-canon 006.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 The garden of doom:  
   
   
-![](images/photo-canon%20008.jpg)  
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-07-photo-canon 008.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-07-photo-canon 008.jpg" alt="2008-07-photo-canon 008.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 How to treat your Polish builders - good food, good thrones:  
 
-![](images/photo-canon%20010.jpg)  
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-07-photo-canon 010.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-07-photo-canon 010.jpg" alt="2008-07-photo-canon 010.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 Working hard:  
 
-![](images/photo-canon%20011.jpg)  
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-07-photo-canon 011.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-07-photo-canon 011.jpg" alt="2008-07-photo-canon 011.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 Get your missus on BBQ duty - feeding neighbours and builders:  
 
   
   
-![](images/photo-canon%20012.jpg)  
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-07-photo-canon 012.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-07-photo-canon 012.jpg" alt="2008-07-photo-canon 012.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
   
 Fencing panel newly finished:  
 
-![](images/photo-canon%20013.jpg)  
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-07-photo-canon 013.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-07-photo-canon 013.jpg" alt="2008-07-photo-canon 013.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
   
-![](images/photo-canon%20015.jpg)  
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-07-photo-canon 015.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-07-photo-canon 015.jpg" alt="2008-07-photo-canon 015.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 And from M's side:  
 
   
-![](images/photo-canon%20016.jpg)  
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-07-photo-canon 016.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-07-photo-canon 016.jpg" alt="2008-07-photo-canon 016.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 Trellis to go up:  
 
-![](images/photo-canon%20017.jpg)  
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-07-photo-canon 017.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-07-photo-canon 017.jpg" alt="2008-07-photo-canon 017.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 And from our side, already with ivy:  
 
   
   
-![](images/photo-canon%20019.jpg)  
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-07-photo-canon 019.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-07-photo-canon 019.jpg" alt="2008-07-photo-canon 019.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 Nice butt:  
 
   
   
-![](images/photo-canon%20021.jpg)  
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-07-photo-canon 021.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-07-photo-canon 021.jpg" alt="2008-07-photo-canon 021.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
   
 And the beautiful dining set - neatly oiled by S:  
-![](images/photo-canon%20026.jpg)  
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-07-photo-canon 026.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-07-photo-canon 026.jpg" alt="2008-07-photo-canon 026.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 And the twinkly lights:  
-![](images/photo-canon%20027.jpg)  
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-07-photo-canon 027.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-07-photo-canon 027.jpg" alt="2008-07-photo-canon 027.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 And the transformation is complete from THIS:  
 
-![](images/before.jpg)  
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/before.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/before.jpg" alt="before.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 To this:  
   
-![](images/photo-canon%20031.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-07-photo-canon 031.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-07-photo-canon 031.jpg" alt="2008-07-photo-canon 031.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>

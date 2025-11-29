@@ -11,85 +11,149 @@ The (green) thermal paint on the kitchen floor is now dry and the underfloor hea
 
 First tile to get the level and the position:  
 
-![](images/photo-canon%20001.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 001.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 001.jpg" alt="2008-05-photo-canon 001.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Green paint
 
-![](images/photo-canon%20002.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 002.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 002.jpg" alt="2008-05-photo-canon 002.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
-Island marked out (slightly wrongly, but it'll do for now) ![](images/photo-canon%20007.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 007.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 007.jpg" alt="2008-05-photo-canon 007.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Contemplating the tile:
 
-![](images/photo-canon%20009.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 009.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 009.jpg" alt="2008-05-photo-canon 009.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
   
 
-Each man is an island? ![](images/photo-canon%20012.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 012.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 012.jpg" alt="2008-05-photo-canon 012.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Level is v. important and the floor itself turns out not to be:  
 
   
 
-![](images/photo-canon%20014.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 014.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 014.jpg" alt="2008-05-photo-canon 014.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Bannister:  
 
   
 
-![](images/photo-canon%20015.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 015.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 015.jpg" alt="2008-05-photo-canon 015.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Study is nice and clean:  
 
   
 
-![](images/photo-canon%20016.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 016.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 016.jpg" alt="2008-05-photo-canon 016.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Radiator:  
 
   
 
-![](images/photo-canon%20017.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 017.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 017.jpg" alt="2008-05-photo-canon 017.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Tools:  
 
   
 
-![](images/photo-canon%20018.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 018.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 018.jpg" alt="2008-05-photo-canon 018.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 The fireplaces look much nicer "blacked":  
 
   
 
-![](images/photo-canon%20019.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 019.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 019.jpg" alt="2008-05-photo-canon 019.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Guest bedroom sorted:  
 
   
 
-![](images/photo-canon%20020.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 020.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 020.jpg" alt="2008-05-photo-canon 020.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Clean door:  
 
   
 
-![](images/photo-canon%20022.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 022.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 022.jpg" alt="2008-05-photo-canon 022.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Loft bannisters:  
 
   
 
-![](images/photo-canon%20025.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 025.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 025.jpg" alt="2008-05-photo-canon 025.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Loft bathroom sink snags finally sorted:  
 
   
 
-![](images/photo-canon%20027.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 027.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 027.jpg" alt="2008-05-photo-canon 027.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Towel rail (now without chipped tile):  
 
-![](images/photo-canon%20029.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 029.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 029.jpg" alt="2008-05-photo-canon 029.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
   
 
@@ -97,25 +161,41 @@ Grouted panel above the cistern: 
 
   
 
-![](images/photo-canon%20030.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 030.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 030.jpg" alt="2008-05-photo-canon 030.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Shower:  
 
   
 
-![](images/photo-canon%20033.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 033.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 033.jpg" alt="2008-05-photo-canon 033.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 And outside, Peter and crew have removed the "raised flowerbed" (without finding any body):  
 
   
 
-![](images/photo-canon%20040.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 040.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 040.jpg" alt="2008-05-photo-canon 040.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Much more space now:
 
   
 
-![](images/photo-canon%20042.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 042.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 042.jpg" alt="2008-05-photo-canon 042.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Tiles go down:  
 
@@ -125,16 +205,28 @@ Tiles go down:
 
   
 
-![](images/photo-canon%20044.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 044.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 044.jpg" alt="2008-05-photo-canon 044.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Adhesive:  
 
   
 
-![](images/photo-canon%20045.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 045.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 045.jpg" alt="2008-05-photo-canon 045.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Powelly works on defusing the bomb: (and we wire up the PIR sensors)  
 
   
 
-![](images/photo-canon%20047.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-photo-canon 047.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-photo-canon 047.jpg" alt="2008-05-photo-canon 047.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>

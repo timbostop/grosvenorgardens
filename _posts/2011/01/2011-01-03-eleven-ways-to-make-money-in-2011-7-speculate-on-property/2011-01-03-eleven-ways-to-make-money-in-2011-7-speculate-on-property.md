@@ -9,7 +9,11 @@ categories:
 
 Guardian Business
 
-![](images/6202)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/6202" target="_blank">
+    <img src="/grosvenorgardens/images/6202" alt="6202" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 It'll be hard to go wrong buying within the M25, and there will be money to be made outside it too, if you are predatory
 

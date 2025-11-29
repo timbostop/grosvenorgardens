@@ -5,4 +5,8 @@ categories:
   - "general"
 ---
 
-Ideas for the layout of the loft dressing room: ![](images/Dressing-room.jpg) ![](images/Dressing-room2.jpg) ![](images/Dressing-room3.jpg) ![](images/Dressing-room4.jpg) ![](images/Dressing-room5.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-05-Dressing-room5.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-05-Dressing-room5.jpg" alt="2008-05-Dressing-room5.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>

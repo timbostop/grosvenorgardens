@@ -15,51 +15,151 @@ Kitchen design continues to play on the mind - we'll get it right.
 
 Black tiles in the utility room:  
 
-![](images/photo-canon%20054.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 054.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 054.jpg" alt="photo-canon 054.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
-Slightly dodgy splashback in the downstairs WC: ![](images/photo-canon%20057.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 057.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 057.jpg" alt="photo-canon 057.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 New floor tiles in the bathroom - lovely:
 
   
 
-![](images/photo-canon%20058.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 058.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 058.jpg" alt="photo-canon 058.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 1st floor bathroom , getting there:  
 
-![](images/photo-canon%20059.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 059.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 059.jpg" alt="photo-canon 059.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Sink:
 
   
 
-![](images/photo-canon%20060.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 060.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 060.jpg" alt="photo-canon 060.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Shower now works well:  
 
   
 
-![](images/photo-canon%20061.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 061.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 061.jpg" alt="photo-canon 061.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 View from the study - unconventional:  
   
-![](images/photo-canon%20065.jpg)  
-![](images/photo-canon%20066.jpg)  
-![](images/photo-canon%20068.jpg)  
-![](images/photo-canon%20069.jpg)  
-![](images/photo-canon%20073.jpg)  
-![](images/photo-canon%20074.jpg)  
-![](images/photo-canon%20076.jpg)  
-![](images/photo-canon%20077.jpg)  
-![](images/photo-canon%20078.jpg)  
-![](images/photo-canon%20081.jpg)  
-![](images/photo-canon%20085.jpg)  
-![](images/photo-canon%20086.jpg)  
-![](images/photo-canon%20088.jpg)  
-![](images/photo-canon%20089.jpg)  
-![](images/photo-canon%20092.jpg)  
-![](images/photo-canon%20094.jpg)  
-![](images/photo-canon%20096.jpg)  
-![](images/photo-canon%20101.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 065.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 065.jpg" alt="photo-canon 065.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 066.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 066.jpg" alt="photo-canon 066.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 068.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 068.jpg" alt="photo-canon 068.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 069.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 069.jpg" alt="photo-canon 069.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 073.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 073.jpg" alt="photo-canon 073.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-03-photo-canon 074.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-03-photo-canon 074.jpg" alt="2008-03-photo-canon 074.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 076.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 076.jpg" alt="photo-canon 076.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 077.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 077.jpg" alt="photo-canon 077.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 078.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 078.jpg" alt="photo-canon 078.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 081.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 081.jpg" alt="photo-canon 081.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-03-photo-canon 085.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-03-photo-canon 085.jpg" alt="2008-03-photo-canon 085.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 086.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 086.jpg" alt="photo-canon 086.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-03-photo-canon 088.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-03-photo-canon 088.jpg" alt="2008-03-photo-canon 088.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-03-photo-canon 089.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-03-photo-canon 089.jpg" alt="2008-03-photo-canon 089.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 092.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 092.jpg" alt="photo-canon 092.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-03-photo-canon 094.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-03-photo-canon 094.jpg" alt="2008-03-photo-canon 094.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-03-photo-canon 096.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-03-photo-canon 096.jpg" alt="2008-03-photo-canon 096.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-03-photo-canon 101.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-03-photo-canon 101.jpg" alt="2008-03-photo-canon 101.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
-![](images/photo-canon%20103.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-03-photo-canon 103.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-03-photo-canon 103.jpg" alt="2008-03-photo-canon 103.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>

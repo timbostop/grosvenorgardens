@@ -5,6 +5,10 @@ categories:
   - "general"
 ---
 
-[![](images/1525542693_184107019f.jpg)](http://www.flickr.com/photos/timboughton/1525542693/ "photo sharing")
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/1525542693_184107019f.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/1525542693_184107019f.jpg" alt="1525542693_184107019f.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 The bog, still standing. It's the only thing still standing.

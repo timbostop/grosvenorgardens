@@ -13,63 +13,119 @@ Hope you agree it's now looking fine!
 
   
 
-![](images/photo-canon%20088.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 088.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 088.jpg" alt="2008-06-photo-canon 088.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Clean windows:  
 
   
 
-![](images/photo-canon%20089.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 089.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 089.jpg" alt="2008-06-photo-canon 089.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Guest bedroom:  
 
   
 
-![](images/photo-canon%20090.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 090.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 090.jpg" alt="2008-06-photo-canon 090.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
-![](images/photo-canon%20092.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 092.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 092.jpg" alt="2008-06-photo-canon 092.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Functioning bathroom with cabinet:  
 
   
 
-![](images/photo-canon%20094.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 094.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 094.jpg" alt="2008-06-photo-canon 094.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Still got boxes:  
 
   
 
-![](images/photo-canon%20096.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 096.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 096.jpg" alt="2008-06-photo-canon 096.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Floor needs fixing...:
 
-![](images/photo-canon%20097.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 097.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 097.jpg" alt="2008-06-photo-canon 097.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Kitchen coming on:  
 
   
 
-![](images/photo-canon%20099.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 099.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 099.jpg" alt="2008-06-photo-canon 099.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Now without plastic covering:  
 
   
 
-![](images/photo-canon%20101.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 101.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 101.jpg" alt="2008-06-photo-canon 101.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
-![](images/photo-canon%20102.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 102.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 102.jpg" alt="photo-canon 102.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
-![](images/photo-canon%20103.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 103.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 103.jpg" alt="2008-06-photo-canon 103.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
-![](images/photo-canon%20104.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/photo-canon 104.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/photo-canon 104.jpg" alt="photo-canon 104.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
-![](images/photo-canon%20105.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 105.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 105.jpg" alt="2008-06-photo-canon 105.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
   
 
 Seating at the island:
 
-![](images/photo-canon%20106.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 106.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 106.jpg" alt="2008-06-photo-canon 106.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Our cauliflower plants broke the surface! v. exciting:  
 
@@ -77,18 +133,34 @@ Our cauliflower plants broke the surface! v. exciting:
 
   
 
-![](images/photo-canon%20107.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 107.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 107.jpg" alt="2008-06-photo-canon 107.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Basil (cheated):  
 
   
 
-![](images/photo-canon%20109.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 109.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 109.jpg" alt="2008-06-photo-canon 109.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Courgettes:  
 
-![](images/photo-canon%20113.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 113.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 113.jpg" alt="2008-06-photo-canon 113.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 And a final look from the back of the house:  
 
-![](images/photo-canon%20115.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 115.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 115.jpg" alt="2008-06-photo-canon 115.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>

@@ -15,7 +15,11 @@ Here's a few select photos from the day:
   
 Shed gets a new roof:  
 
-![](images/photo-canon%20001.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 001.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 001.jpg" alt="2008-06-photo-canon 001.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
   
 
@@ -23,220 +27,368 @@ Garden gets a bit of a makeover, courtesy of S:
 
   
 
-![](images/photo-canon%20002.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 002.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 002.jpg" alt="2008-06-photo-canon 002.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Windows open:  
 
   
 
-![](images/photo-canon%20006.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 006.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 006.jpg" alt="2008-06-photo-canon 006.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Hob ready to go in?  
 
   
 
-![](images/photo-canon%20007.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 007.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 007.jpg" alt="2008-06-photo-canon 007.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Ovens etcL  
 
   
 
-![](images/photo-canon%20008.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 008.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 008.jpg" alt="2008-06-photo-canon 008.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Plumbing for the sink - which is now with the Corian (worktop men):  
 
   
 
-![](images/photo-canon%20009.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 009.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 009.jpg" alt="2008-06-photo-canon 009.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Touch latches fitted to the cupboards:  
 
   
 
-![](images/photo-canon%20010.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 010.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 010.jpg" alt="2008-06-photo-canon 010.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 And closed:  
 
   
 
-![](images/photo-canon%20012.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 012.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 012.jpg" alt="2008-06-photo-canon 012.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Open:  
 
   
 
-![](images/photo-canon%20013.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 013.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 013.jpg" alt="2008-06-photo-canon 013.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Underfloor heating:  
 
   
 
-![](images/photo-canon%20015.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 015.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 015.jpg" alt="2008-06-photo-canon 015.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 DB, working hard in the utility room:  
 
   
 
-![](images/photo-canon%20018.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 018.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 018.jpg" alt="2008-06-photo-canon 018.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Shelves:  
 
   
 
-![](images/photo-canon%20020.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 020.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 020.jpg" alt="2008-06-photo-canon 020.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 And clean bathrooms:  
 
   
 
-![](images/photo-canon%20024.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 024.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 024.jpg" alt="2008-06-photo-canon 024.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
   
 
   
 
-![](images/photo-canon%20025.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 025.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 025.jpg" alt="2008-06-photo-canon 025.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Room with a view:  
 
   
 
-![](images/photo-canon%20028.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 028.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 028.jpg" alt="2008-06-photo-canon 028.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Balcony:  
 
   
 
-![](images/photo-canon%20029.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 029.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 029.jpg" alt="2008-06-photo-canon 029.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
   
 
   
 
-![](images/photo-canon%20032.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 032.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 032.jpg" alt="2008-06-photo-canon 032.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Something about exhausting the boiler?  
 
   
 
-![](images/photo-canon%20033.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 033.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 033.jpg" alt="2008-06-photo-canon 033.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Dressing room:  
 
   
 
-![](images/photo-canon%20034.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 034.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 034.jpg" alt="2008-06-photo-canon 034.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Fireplace and bed in the right place:  
 
   
 
-![](images/photo-canon%20037.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 037.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 037.jpg" alt="2008-06-photo-canon 037.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Cupboard:  
 
   
 
-![](images/photo-canon%20039.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 039.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 039.jpg" alt="2008-06-photo-canon 039.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 MDF worktop? For now at least:  
 
   
 
-![](images/photo-canon%20041.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 041.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 041.jpg" alt="2008-06-photo-canon 041.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 DB proud:  
 
   
 
-![](images/photo-canon%20043.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 043.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 043.jpg" alt="2008-06-photo-canon 043.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Fridge etc:  
 
   
 
-![](images/photo-canon%20047.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 047.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 047.jpg" alt="2008-06-photo-canon 047.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Kitchen:  
 
   
 
-![](images/photo-canon%20048.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 048.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 048.jpg" alt="2008-06-photo-canon 048.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
   
 
   
 
-![](images/photo-canon%20049.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 049.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 049.jpg" alt="2008-06-photo-canon 049.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Plans:  
 
   
 
-![](images/photo-canon%20050.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 050.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 050.jpg" alt="2008-06-photo-canon 050.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Utility room gets cleaned and polished:  
 
   
 
-![](images/photo-canon%20051.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 051.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 051.jpg" alt="2008-06-photo-canon 051.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Tap:  
 
   
 
-![](images/photo-canon%20052.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 052.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 052.jpg" alt="2008-06-photo-canon 052.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Dining room cleaned up:  
 
   
 
-![](images/photo-canon%20057.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 057.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 057.jpg" alt="2008-06-photo-canon 057.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Sofa and piano:  
 
   
 
-![](images/photo-canon%20058.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 058.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 058.jpg" alt="2008-06-photo-canon 058.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Sink:  
 
   
 
-![](images/photo-canon%20060.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 060.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 060.jpg" alt="2008-06-photo-canon 060.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Clean bog, for once:  
 
   
 
-![](images/photo-canon%20061.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 061.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 061.jpg" alt="2008-06-photo-canon 061.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 And clean windows:  
 
   
 
-![](images/photo-canon%20062.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 062.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 062.jpg" alt="2008-06-photo-canon 062.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Bath  
 
   
 
-![](images/photo-canon%20063.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 063.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 063.jpg" alt="2008-06-photo-canon 063.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Cleaning woman, works on windows:  
 
   
 
-![](images/photo-canon%20066.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 066.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 066.jpg" alt="2008-06-photo-canon 066.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Exhaust:  
 
   
 
-![](images/photo-canon%20067.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 067.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 067.jpg" alt="2008-06-photo-canon 067.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
 
 Finished windows with curtain poles:  
 
   
 
-![](images/photo-canon%20074.jpg)
+<div class="single-image" style="margin: 20px 0;">
+  <a href="/grosvenorgardens/images/2008-06-photo-canon 074.jpg" target="_blank">
+    <img src="/grosvenorgardens/images/2008-06-photo-canon 074.jpg" alt="2008-06-photo-canon 074.jpg" style="max-width: 600px; width: 100%; height: auto;" loading="lazy" />
+  </a>
+</div>
